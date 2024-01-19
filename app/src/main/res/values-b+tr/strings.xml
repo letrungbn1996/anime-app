@@ -1,0 +1,137 @@
+<resources>
+  <!--app info-->
+  <string name="app_name">Animexa</string>
+  <string name="app_copyright">Telif Hakkı © 2024, Animexa\'ya aittir.\n Her hakkı saklıdır</string>
+  <string name="share_text">🌟 Uygulamamızla çarpıcı anime duvar kağıtlarını keşfedin! Cihazınızı yüksek çözünürlüklü şaheserlerle dönüştürün. ✨ Hemen indirin ve ekranınızın estetiğini yükseltin!</string>
+  <!--navigation name-->
+  <string name="title_nav_wallpaper">Duvar kağıdı</string>
+  <string name="title_nav_category">Kategori</string>
+  <string name="title_nav_favorite">Favori</string>
+  <!--wallpaper set action-->
+  <string name="msg_set_action">Ne yapmak istersin?</string>
+  <string name="txt_set_as_home_screen">Ana ekran olarak ayarla</string>
+  <string name="txt_set_as_lock_screen">Kilit ekranı olarak ayarla</string>
+  <string name="txt_set_both_screen">Her iki ekranı da ayarla</string>
+  <string name="txt_set_wallpaper">Duvar kağıdı olarak ayarlamak</string>
+  <string name="txt_set_with">İle ayarlamak</string>
+  <string name="txt_crop">Mahsul</string>
+  <string name="txt_set_video_wallpaper">Video duvar kağıdını ayarla</string>
+  <string name="txt_save_to_device">Cihaza kaydet</string>
+  <string name="msg_wallpaper_success">Duvar kağıdı güncellendi</string>
+  <string name="msg_wallpaper_saved">Duvar kağıdı kaydedildi</string>
+  <string name="msg_wallpaper_failed">Duvar kağıdı uygulanmadı</string>
+  <string name="msg_wallpaper_error">Duvar kağıdı hatası</string>
+  <!--set wallpaper option-->
+  <string name="txt_title_info">Bilgi</string>
+  <string name="txt_info_name">İsim</string>
+  <string name="txt_info_category">Kategori</string>
+  <string name="txt_info_resolution">Çözünürlük</string>
+  <string name="txt_info_size">Boyut</string>
+  <string name="txt_info_type">Tip</string>
+  <string name="txt_info_views">Görüntüleme</string>
+  <string name="txt_info_downloads">İndirilenler</string>
+  <string name="txt_info_tags">Etiketler</string>
+  <!--dialog option-->
+  <string name="dialog_option_ok">TAMAM</string>
+  <string name="dialog_option_yes">Evet</string>
+  <string name="dialog_option_cancel">İptal etmek</string>
+  <string name="dialog_option_exit">çıkış</string>
+  <!--snack bar message-->
+  <string name="snack_bar_favorite_removed">Favorilerden kaldırıldı</string>
+  <string name="snack_bar_favorite_added">Favorilere eklendi</string>
+  <!--network & error message-->
+  <string name="whops">Hata!</string>
+  <string name="failed_title_text">Hata!</string>
+  <string name="failed_text">Ağınızda bir sorun var veya sunucu şu anda kapalı, lütfen daha sonra tekrar deneyin.</string>
+  <string name="no_category_found">Şu anda kullanılabilir bir kategori yok gibi görünüyor</string>
+  <string name="no_search_wallpaper_found">Duvar kağıdı bulunamadı! Aramaya devam etmek istiyorsanız lütfen başka bir anahtar kelime girmeyi deneyin!</string>
+  <string name="no_search_category_found">Kategori bulunamadı! Aramaya devam etmek istiyorsanız lütfen başka bir anahtar kelime girmeyi deneyin!</string>
+  <string name="msg_no_item">Bu bölümde kullanılabilir duvar kağıdı yok gibi görünüyor.</string>
+  <string name="msg_no_favorite">Favori menüsüne herhangi bir duvar kağıdı eklemediğiniz için favori listeniz boş.</string>
+  <string name="btn_retry">Yeniden dene</string>
+  <!--wallpaper and category aspect ratio-->
+  <string name="wallpaper_image_ratio_rectangle">H,1:1.5</string>
+  <string name="wallpaper_image_ratio_square">H,1:1</string>
+  <string name="category_image_ratio">H,2:1</string>
+  <!--search-->
+  <string name="search_hint">Aramak…</string>
+  <string name="radio_button_wallpaper">Duvar kağıdı</string>
+  <string name="radio_button_category">Kategori</string>
+  <string name="msg_search_input">Lütfen Anahtar Kelimeyi Girin</string>
+  <!--redirect if app suspended-->
+  <string name="redirect_title">Yeni Uygulama Güncellemeleri</string>
+  <string name="redirect_message">Bu uygulamanın süresi doldu ve artık kullanılmıyor, bu uygulamanın en son güncellemesini indirip yüklemek için aşağıdaki düğmeye basın.</string>
+  <string name="redirect_button">Güncellemeyi Şimdi İndirin</string>
+  <string name="redirect_error">Hata! URL\'de sorun var, daha sonra tekrar deneyin</string>
+  <!--title tab menu which is only used when online tab menu is disabled from Config.java-->
+  <string name="tab_menu_recent">Son</string>
+  <string name="tab_menu_featured">Öne Çıkanlar</string>
+  <string name="tab_menu_popular">Popüler</string>
+  <string name="tab_menu_random">Rastgele</string>
+  <string name="tab_menu_live">Canlı duvar kağıdı</string>
+  <!--settings and others-->
+  <string name="menu_settings">Ayarlar</string>
+  <string name="msg_clear_cache">Önbelleği temizlemek istediğinizden emin misiniz?</string>
+  <string name="title_setting_theme">Koyu Tema</string>
+  <string name="sub_title_setting_theme">Görme yeteneği için daha iyi pil ömrü</string>
+  <string name="title_setting_display_wallpaper">Duvar Kağıdını Göster</string>
+  <string name="option_menu_wallpaper_grid_2">2 Sütun</string>
+  <string name="option_menu_wallpaper_grid_3">3 Sütun</string>
+  <string name="title_setting_display_category">Görüntüleme Kategorisi</string>
+  <string name="option_menu_category_list">Liste</string>
+  <string name="option_menu_category_grid_2">2 Sütun</string>
+  <string name="title_setting_notification">Bildiri</string>
+  <string name="sub_title_setting_notification">Duvar kağıtları güncellemesi almak için abone olun</string>
+  <string name="title_setting_clear_cache">Önbelleği Temizle</string>
+  <string name="sub_setting_clear_cache_start">Serbest</string>
+  <string name="sub_setting_clear_cache_end">boşluk</string>
+  <string name="title_setting_clear_search">Arama geçmişini temizle</string>
+  <string name="sub_title_setting_clear_search">Yaptığınız aramaları kaldırın</string>
+  <string name="title_dialog_clear_search_history">Arama geçmişini temizle</string>
+  <string name="msg_dialog_clear_search_history">Arama geçmişinizi temizlemek istediğinizden emin misiniz?</string>
+  <string name="clearing_empty">Arama geçmişiniz boş</string>
+  <string name="clearing_success">Arama geçmişi başarıyla temizlendi…</string>
+  <string name="title_setting_privacy">Gizlilik Politikası</string>
+  <string name="sub_title_setting_privacy">Uygulama Şartları ve Şartları Politikalar</string>
+  <string name="title_setting_rate">Bizi değerlendirin</string>
+  <string name="sub_title_setting_rate">Uygulamaya ilişkin puanınızı ve yorumunuzu verin</string>
+  <string name="title_setting_more_apps">Daha fazla uygulama</string>
+  <string name="sub_title_setting_more_apps">Size özel diğer uygulamalarımızı keşfedin</string>
+  <string name="title_setting_copyright">Telif Hakkı Bilgileri</string>
+  <string name="sub_title_setting_copyright">Uygulamada bulunan tüm duvar kağıtları ücretsizdir ve kredisi ilgili sahiplerine aittir. Bu duvar kağıtları Creative Commons Zero (CC0) lisansı kapsamında lisanslanmıştır. Herhangi bir kuralı ihlal eden bir duvar kağıdı bulursanız lütfen bizimle iletişime geçin; duvar kağıdını kaldıracağız.</string>
+  <string name="title_setting_about">Hakkında</string>
+  <string name="sub_title_setting_about">Uygulama bilgileri ve sürüm oluştur</string>
+  <string name="msg_about_version">Sürüm</string>
+  <string name="msg_cache_cleared">önbellek temizlendi</string>
+  <string name="title_setting_path">Duvar Kağıdının Kaydedildiği Yer</string>
+  <string name="wallpaper_count_text">Duvar kağıtları</string>
+  <string name="img_content_description">YAPMAK</string>
+  <string name="msg_cancel_update">Güncelleme iptal edildi</string>
+  <string name="msg_success_update">Başarıyı güncelleyin!</string>
+  <string name="msg_failed_update">Güncelleme başarısız oldu!</string>
+  <string name="title_sort">Duvar Kağıtlarını Sırala</string>
+  <!--exit message-->
+  <string name="press_again_to_exit">Çıkmak için tekrar basın</string>
+  <string name="msg_dialog_exit">Uygulamadan çıkmak istediğinizden emin misiniz?</string>
+  <!--vpn alert-->
+  <string name="vpn_detected">VPN Algılandı!</string>
+  <string name="close_vpn">Devam etmek için VPN\'yi kapatın ve uygulamayı yeniden açın.</string>
+  <!--rewarded option-->
+  <string name="msg_watch_ad">Duvar kağıdının kilidini açmak ve ayarlamak için reklamı izleyin</string>
+  <string name="btn_watch_ad">Reklamı İzle</string>
+  <string name="btn_later">Daha sonra yapacağım</string>
+  <string name="msg_rewarded_error">Reklam henüz kullanılamıyor, lütfen daha sonra tekrar deneyin</string>
+  <!--  onboarding-->
+  <string name="todo" formatted="false">Yapılacaklar</string>
+  <string name="personalize_with_anime_wallpapers" formatted="false">Anime Duvar Kağıtlarıyla Kişiselleştirin</string>
+  <string name="next" formatted="false">İleri</string>
+  <string name="get_started" formatted="false">Başla</string>
+  <string name="explore_a_huge_collection_of_top_tier_anime_wallpapers_for_any_screen" formatted="false">Herhangi bir ekrana yönelik büyük bir anime duvar kağıdı koleksiyonunu keşfedin.</string>
+  <string name="languages" formatted="false">Diller</string>
+  <string name="system_language" formatted="false">Sistem Dili</string>
+  <string name="live_wallpapers_anime_magic" formatted="false">Canlı Duvar Kağıtları, Anime Büyüsü</string>
+  <string name="dive_into_the_dynamic_anime_world_with_animated_wallpapers" formatted="false">Animasyonlu duvar kağıtlarıyla dinamik anime dünyasına dalın.</string>
+  <string name="your_favorites_your_way" formatted="false">Sizin Tercihleriniz, Sizin Tarzınız</string>
+  <string name="craft_a_personalized_collection_of_anime_favorites_with_animexa" formatted="false">Animexa ile kişiselleştirilmiş bir anime koleksiyonu oluşturun.</string>
+
+</resources>

@@ -1,0 +1,137 @@
+<resources>
+  <!--app info-->
+  <string name="app_name">Animexa</string>
+  <string name="app_copyright">Copyright © 2024 por Animexa\n Todos os direitos reservados</string>
+  <string name="share_text">🌟 Explore papéis de parede de anime impressionantes com nosso aplicativo! Transforme seu dispositivo com obras-primas de alta resolução. ✨ Baixe agora e eleve a estética da sua tela!</string>
+  <!--navigation name-->
+  <string name="title_nav_wallpaper">Papel de parede</string>
+  <string name="title_nav_category">Categoria</string>
+  <string name="title_nav_favorite">Favorito</string>
+  <!--wallpaper set action-->
+  <string name="msg_set_action">O que você gostaria de fazer?</string>
+  <string name="txt_set_as_home_screen">Definir como tela inicial</string>
+  <string name="txt_set_as_lock_screen">Definida como a tela de bloqueio</string>
+  <string name="txt_set_both_screen">Definir ambas as telas</string>
+  <string name="txt_set_wallpaper">Definir como Papel de Parede</string>
+  <string name="txt_set_with">Definido com</string>
+  <string name="txt_crop">Cortar</string>
+  <string name="txt_set_video_wallpaper">Definir papel de parede de vídeo</string>
+  <string name="txt_save_to_device">Salvar no dispositivo</string>
+  <string name="msg_wallpaper_success">Papel de parede atualizado</string>
+  <string name="msg_wallpaper_saved">Papel de parede salvo</string>
+  <string name="msg_wallpaper_failed">Papel de parede não aplicado</string>
+  <string name="msg_wallpaper_error">Erro de papel de parede</string>
+  <!--set wallpaper option-->
+  <string name="txt_title_info">Informações</string>
+  <string name="txt_info_name">Nome</string>
+  <string name="txt_info_category">Categoria</string>
+  <string name="txt_info_resolution">Resolução</string>
+  <string name="txt_info_size">Tamanho</string>
+  <string name="txt_info_type">Tipo</string>
+  <string name="txt_info_views">Visualizações</string>
+  <string name="txt_info_downloads">Transferências</string>
+  <string name="txt_info_tags">Tag</string>
+  <!--dialog option-->
+  <string name="dialog_option_ok">OK</string>
+  <string name="dialog_option_yes">Sim</string>
+  <string name="dialog_option_cancel">Cancelar</string>
+  <string name="dialog_option_exit">Saída</string>
+  <!--snack bar message-->
+  <string name="snack_bar_favorite_removed">Removido dos favoritos</string>
+  <string name="snack_bar_favorite_added">Adicionado aos favoritos</string>
+  <!--network & error message-->
+  <string name="whops">Opa!</string>
+  <string name="failed_title_text">Opa!</string>
+  <string name="failed_text">Há algum problema com sua rede ou o servidor está inativo no momento. Tente novamente mais tarde.</string>
+  <string name="no_category_found">Parece que não há nenhuma categoria disponível no momento</string>
+  <string name="no_search_wallpaper_found">Nenhum papel de parede encontrado! se quiser continuar a pesquisa, tente inserir outra palavra-chave!</string>
+  <string name="no_search_category_found">Nenhuma categoria encontrada! se quiser continuar a pesquisa, tente inserir outra palavra-chave!</string>
+  <string name="msg_no_item">Parece que não há papéis de parede disponíveis nesta seção.</string>
+  <string name="msg_no_favorite">Sua lista de favoritos está vazia porque você não adicionou nenhum papel de parede ao menu de favoritos.</string>
+  <string name="btn_retry">Tentar novamente</string>
+  <!--wallpaper and category aspect ratio-->
+  <string name="wallpaper_image_ratio_rectangle">H,1:1.5</string>
+  <string name="wallpaper_image_ratio_square">H,1:1</string>
+  <string name="category_image_ratio">H,2:1</string>
+  <!--search-->
+  <string name="search_hint">Procurar…</string>
+  <string name="radio_button_wallpaper">Papel de parede</string>
+  <string name="radio_button_category">Categoria</string>
+  <string name="msg_search_input">Insira a palavra-chave</string>
+  <!--redirect if app suspended-->
+  <string name="redirect_title">Novas atualizações de aplicativos</string>
+  <string name="redirect_message">Este aplicativo expirou e não é mais usado, pressione o botão abaixo para baixar e instalar a atualização mais recente deste aplicativo.</string>
+  <string name="redirect_button">Baixe a atualização agora</string>
+  <string name="redirect_error">Opa! há problema com o URL, tente novamente mais tarde</string>
+  <!--title tab menu which is only used when online tab menu is disabled from Config.java-->
+  <string name="tab_menu_recent">Recente</string>
+  <string name="tab_menu_featured">Apresentou</string>
+  <string name="tab_menu_popular">Popular</string>
+  <string name="tab_menu_random">Aleatório</string>
+  <string name="tab_menu_live">Papel de parede animado</string>
+  <!--settings and others-->
+  <string name="menu_settings">Configurações</string>
+  <string name="msg_clear_cache">Tem certeza de que deseja limpar o cache?</string>
+  <string name="title_setting_theme">Tema escuro</string>
+  <string name="sub_title_setting_theme">Melhor para visão e visão. vida útil da bateria</string>
+  <string name="title_setting_display_wallpaper">Exibir papel de parede</string>
+  <string name="option_menu_wallpaper_grid_2">2 colunas</string>
+  <string name="option_menu_wallpaper_grid_3">3 colunas</string>
+  <string name="title_setting_display_category">Categoria de exibição</string>
+  <string name="option_menu_category_list">Lista</string>
+  <string name="option_menu_category_grid_2">2 colunas</string>
+  <string name="title_setting_notification">Notificação</string>
+  <string name="sub_title_setting_notification">Inscreva-se para receber atualizações de papéis de parede</string>
+  <string name="title_setting_clear_cache">Limpar cache</string>
+  <string name="sub_setting_clear_cache_start">Libertar</string>
+  <string name="sub_setting_clear_cache_end">do espaço</string>
+  <string name="title_setting_clear_search">Limpar histórico de pesquisa</string>
+  <string name="sub_title_setting_clear_search">Remova pesquisas que você realizou</string>
+  <string name="title_dialog_clear_search_history">Limpar histórico de pesquisa</string>
+  <string name="msg_dialog_clear_search_history">Tem certeza de que deseja limpar seu histórico de pesquisa?</string>
+  <string name="clearing_empty">Seu histórico de pesquisa está vazio</string>
+  <string name="clearing_success">Histórico de pesquisa limpo com sucesso…</string>
+  <string name="title_setting_privacy">política de Privacidade</string>
+  <string name="sub_title_setting_privacy">Termos e Termos do Aplicativo Políticas</string>
+  <string name="title_setting_rate">Nos avalie</string>
+  <string name="sub_title_setting_rate">Dê sua classificação e avaliação do aplicativo</string>
+  <string name="title_setting_more_apps">Mais aplicativos</string>
+  <string name="sub_title_setting_more_apps">Descubra nossos outros aplicativos para você</string>
+  <string name="title_setting_copyright">Informações sobre direitos autorais</string>
+  <string name="sub_title_setting_copyright">Todos os papéis de parede disponíveis no aplicativo são gratuitos e o crédito é concedido aos seus respectivos proprietários. Esses papéis de parede são licenciados sob a licença Creative Commons Zero (CC0). Entre em contato conosco se encontrar algum papel de parede que viole alguma regra e nós o removeremos.</string>
+  <string name="title_setting_about">Sobre</string>
+  <string name="sub_title_setting_about">Informações e aplicativos do aplicativo versão de compilação</string>
+  <string name="msg_about_version">Versão</string>
+  <string name="msg_cache_cleared">cache foi limpo</string>
+  <string name="title_setting_path">Papel de parede salvo em</string>
+  <string name="wallpaper_count_text">Papeis de parede</string>
+  <string name="img_content_description">PENDÊNCIA</string>
+  <string name="msg_cancel_update">Atualização cancelada</string>
+  <string name="msg_success_update">Atualização feita com sucesso!</string>
+  <string name="msg_failed_update">Atualização falhou!</string>
+  <string name="title_sort">Classificar papéis de parede</string>
+  <!--exit message-->
+  <string name="press_again_to_exit">Pressione novamente para sair</string>
+  <string name="msg_dialog_exit">Tem certeza de que deseja sair do aplicativo?</string>
+  <!--vpn alert-->
+  <string name="vpn_detected">VPN detectada!</string>
+  <string name="close_vpn">Feche a VPN e reabra o aplicativo para continuar.</string>
+  <!--rewarded option-->
+  <string name="msg_watch_ad">Assista ao anúncio para poder desbloquear e definir papel de parede</string>
+  <string name="btn_watch_ad">Assistir ao anúncio</string>
+  <string name="btn_later">Farei isso mais tarde</string>
+  <string name="msg_rewarded_error">Anúncio ainda não disponível. Tente novamente mais tarde</string>
+  <!--  onboarding-->
+  <string name="todo" formatted="false">A Fazer</string>
+  <string name="personalize_with_anime_wallpapers" formatted="false">Personalize com Papéis de Parede de Anime</string>
+  <string name="next" formatted="false">Próximo</string>
+  <string name="get_started" formatted="false">Começar</string>
+  <string name="explore_a_huge_collection_of_top_tier_anime_wallpapers_for_any_screen" formatted="false">Explore uma grande coleção de papéis de parede de anime de primeira linha para qualquer tela.</string>
+  <string name="languages" formatted="false">Idiomas</string>
+  <string name="system_language" formatted="false">Idioma do Sistema</string>
+  <string name="live_wallpapers_anime_magic" formatted="false">Papéis de Parede ao Vivo, Magia do Anime</string>
+  <string name="dive_into_the_dynamic_anime_world_with_animated_wallpapers" formatted="false">Mergulhe no mundo dinâmico do anime com papéis de parede animados.</string>
+  <string name="your_favorites_your_way" formatted="false">Os Seus Favoritos, à Sua Maneira</string>
+  <string name="craft_a_personalized_collection_of_anime_favorites_with_animexa" formatted="false">Crie uma coleção personalizada dos seus animes favoritos com a Animexa.</string>
+
+</resources>

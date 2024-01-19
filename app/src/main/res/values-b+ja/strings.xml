@@ -1,0 +1,137 @@
+<resources>
+  <!--app info-->
+  <string name="app_name">Animexa</string>
+  <string name="app_copyright">著作権 © 2024 by Animexa\n 無断転載を禁じます</string>
+  <string name="share_text">🌟? 私たちのアプリで素晴らしいアニメの壁紙を探索してください！高解像度の傑作でデバイスを変身させます。?✨ 今すぐダウンロードして、画面の美しさを高めてください!</string>
+  <!--navigation name-->
+  <string name="title_nav_wallpaper">壁紙</string>
+  <string name="title_nav_category">カテゴリー</string>
+  <string name="title_nav_favorite">お気に入り</string>
+  <!--wallpaper set action-->
+  <string name="msg_set_action">何をしたいですか?</string>
+  <string name="txt_set_as_home_screen">ホーム画面として設定</string>
+  <string name="txt_set_as_lock_screen">ロック画面として設定</string>
+  <string name="txt_set_both_screen">両方の画面を設定する</string>
+  <string name="txt_set_wallpaper">壁紙として設定</string>
+  <string name="txt_set_with">とセット</string>
+  <string name="txt_crop">作物</string>
+  <string name="txt_set_video_wallpaper">ビデオの壁紙を設定する</string>
+  <string name="txt_save_to_device">デバイスに保存</string>
+  <string name="msg_wallpaper_success">壁紙を更新しました</string>
+  <string name="msg_wallpaper_saved">壁紙を保存しました</string>
+  <string name="msg_wallpaper_failed">壁紙が適用されていません</string>
+  <string name="msg_wallpaper_error">壁紙エラー</string>
+  <!--set wallpaper option-->
+  <string name="txt_title_info">情報</string>
+  <string name="txt_info_name">名前</string>
+  <string name="txt_info_category">カテゴリー</string>
+  <string name="txt_info_resolution">解決</string>
+  <string name="txt_info_size">サイズ</string>
+  <string name="txt_info_type">タイプ</string>
+  <string name="txt_info_views">ビュー</string>
+  <string name="txt_info_downloads">ダウンロード</string>
+  <string name="txt_info_tags">タグ</string>
+  <!--dialog option-->
+  <string name="dialog_option_ok">わかりました</string>
+  <string name="dialog_option_yes">はい</string>
+  <string name="dialog_option_cancel">キャンセル</string>
+  <string name="dialog_option_exit">出口</string>
+  <!--snack bar message-->
+  <string name="snack_bar_favorite_removed">お気に入りから削除されました</string>
+  <string name="snack_bar_favorite_added">お気に入りに追加されました</string>
+  <!--network & error message-->
+  <string name="whops">おっと！</string>
+  <string name="failed_title_text">おっと！</string>
+  <string name="failed_text">ネットワークに問題があるか、サーバーが現在ダウンしています。後でもう一度試してください。</string>
+  <string name="no_category_found">現時点では利用可能なカテゴリがないようです</string>
+  <string name="no_search_wallpaper_found">壁紙が見つかりません!検索を続ける場合は、別のキーワードを入力してください。</string>
+  <string name="no_search_category_found">カテゴリが見つかりません!検索を続ける場合は、別のキーワードを入力してください。</string>
+  <string name="msg_no_item">このセクションでは利用可能な壁紙がないようです。</string>
+  <string name="msg_no_favorite">お気に入りメニューに壁紙を追加していないため、お気に入りリストは空です。</string>
+  <string name="btn_retry">リトライ</string>
+  <!--wallpaper and category aspect ratio-->
+  <string name="wallpaper_image_ratio_rectangle">H,1:1.5</string>
+  <string name="wallpaper_image_ratio_square">H,1:1</string>
+  <string name="category_image_ratio">H,2:1</string>
+  <!--search-->
+  <string name="search_hint">検索…</string>
+  <string name="radio_button_wallpaper">壁紙</string>
+  <string name="radio_button_category">カテゴリー</string>
+  <string name="msg_search_input">キーワードを入力してください</string>
+  <!--redirect if app suspended-->
+  <string name="redirect_title">新しいアプリのアップデート</string>
+  <string name="redirect_message">このアプリケーションは有効期限が切れており、もう使用されていません。下のボタンを押して、このアプリケーションの最新のアップデートをダウンロードしてインストールしてください。</string>
+  <string name="redirect_button">今すぐダウンロードアップデート</string>
+  <string name="redirect_error">おっと！ URL に問題があります。後でもう一度お試しください</string>
+  <!--title tab menu which is only used when online tab menu is disabled from Config.java-->
+  <string name="tab_menu_recent">最近の</string>
+  <string name="tab_menu_featured">特徴</string>
+  <string name="tab_menu_popular">人気のある</string>
+  <string name="tab_menu_random">ランダム</string>
+  <string name="tab_menu_live">ライブ壁紙</string>
+  <!--settings and others-->
+  <string name="menu_settings">設定</string>
+  <string name="msg_clear_cache">キャッシュをクリアしてもよろしいですか?</string>
+  <string name="title_setting_theme">暗いテーマ</string>
+  <string name="sub_title_setting_theme">視力と視力に優れています。バッテリー寿命</string>
+  <string name="title_setting_display_wallpaper">壁紙を表示する</string>
+  <string name="option_menu_wallpaper_grid_2">2 列</string>
+  <string name="option_menu_wallpaper_grid_3">3 列</string>
+  <string name="title_setting_display_category">表示カテゴリー</string>
+  <string name="option_menu_category_list">リスト</string>
+  <string name="option_menu_category_grid_2">2 列</string>
+  <string name="title_setting_notification">通知</string>
+  <string name="sub_title_setting_notification">購読して壁紙の更新を受け取る</string>
+  <string name="title_setting_clear_cache">キャッシュの消去</string>
+  <string name="sub_setting_clear_cache_start">解放してください</string>
+  <string name="sub_setting_clear_cache_end">宇宙の</string>
+  <string name="title_setting_clear_search">検索履歴をクリア</string>
+  <string name="sub_title_setting_clear_search">実行した検索を削除する</string>
+  <string name="title_dialog_clear_search_history">検索履歴をクリア</string>
+  <string name="msg_dialog_clear_search_history">検索履歴を消去してもよろしいですか?</string>
+  <string name="clearing_empty">検索履歴は空です</string>
+  <string name="clearing_success">検索履歴は正常に消去されました…</string>
+  <string name="title_setting_privacy">プライバシーポリシー</string>
+  <string name="sub_title_setting_privacy">アプリ利用規約とポリシー</string>
+  <string name="title_setting_rate">私たちを評価してください</string>
+  <string name="sub_title_setting_rate">アプリの評価とレビューを投稿してください</string>
+  <string name="title_setting_more_apps">より多くのアプリケーション</string>
+  <string name="sub_title_setting_more_apps">あなたにぴったりの他のアプリを見つけてください</string>
+  <string name="title_setting_copyright">著作権情報</string>
+  <string name="sub_title_setting_copyright">アプリで利用できる壁紙はすべて無料であり、そのクレジットはそれぞれの所有者に帰属します。これらの壁紙は、クリエイティブ コモンズ ゼロ (CC0) ライセンスに基づいてライセンスされています。ルールに違反する壁紙を発見した場合は、壁紙を削除させていただきますので、ご連絡ください。</string>
+  <string name="title_setting_about">について</string>
+  <string name="sub_title_setting_about">アプリ情報＆アプリ情報ビルドバージョン</string>
+  <string name="msg_about_version">バージョン</string>
+  <string name="msg_cache_cleared">キャッシュがクリアされました</string>
+  <string name="title_setting_path">壁紙の保存先</string>
+  <string name="wallpaper_count_text">壁紙</string>
+  <string name="img_content_description">TODO</string>
+  <string name="msg_cancel_update">アップデートがキャンセルされました</string>
+  <string name="msg_success_update">アップデート成功！</string>
+  <string name="msg_failed_update">アップデートに失敗しました！</string>
+  <string name="title_sort">壁紙を並べ替える</string>
+  <!--exit message-->
+  <string name="press_again_to_exit">もう一度押すと終了します</string>
+  <string name="msg_dialog_exit">アプリを終了してもよろしいですか?</string>
+  <!--vpn alert-->
+  <string name="vpn_detected">VPN が検出されました!</string>
+  <string name="close_vpn">続行するには、VPN を閉じてアプリを再度開きます。</string>
+  <!--rewarded option-->
+  <string name="msg_watch_ad">広告を見るとロックを解除して壁紙を設定できます</string>
+  <string name="btn_watch_ad">広告を見る</string>
+  <string name="btn_later">後でやります</string>
+  <string name="msg_rewarded_error">広告はまだ利用できません。後でもう一度お試しください。</string>
+  <!--  onboarding-->
+  <string name="todo" formatted="false">未完了</string>
+  <string name="personalize_with_anime_wallpapers" formatted="false">アニメ壁紙で個性を表現</string>
+  <string name="next" formatted="false">次へ</string>
+  <string name="get_started" formatted="false">開始</string>
+  <string name="explore_a_huge_collection_of_top_tier_anime_wallpapers_for_any_screen" formatted="false">どんなディスプレイでも最高のアニメ壁紙の大コレクションを探索</string>
+  <string name="languages" formatted="false">言語</string>
+  <string name="system_language" formatted="false">システム言語</string>
+  <string name="live_wallpapers_anime_magic" formatted="false">ライブ壁紙、アニメの魔法</string>
+  <string name="dive_into_the_dynamic_anime_world_with_animated_wallpapers" formatted="false">アニメーション壁紙でダイナミックなアニメの世界に飛び込む</string>
+  <string name="your_favorites_your_way" formatted="false">お気に入りを自分流に</string>
+  <string name="craft_a_personalized_collection_of_anime_favorites_with_animexa" formatted="false">Animexaで個性的なアニメコレクションを作成</string>
+
+</resources>

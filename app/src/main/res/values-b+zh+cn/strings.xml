@@ -1,0 +1,137 @@
+<resources>
+  <!--app info-->
+  <string name="app_name">动漫展</string>
+  <string name="app_copyright">版权所有 © 2024 Animexa\n 版权所有</string>
+  <string name="share_text">🌟? 使用我们的应用程序探索令人惊叹的动漫壁纸！用高分辨率杰作改造您的设备。?✨ 立即下载并提升您的屏幕美感！</string>
+  <!--navigation name-->
+  <string name="title_nav_wallpaper">墙纸</string>
+  <string name="title_nav_category">类别</string>
+  <string name="title_nav_favorite">最喜欢的</string>
+  <!--wallpaper set action-->
+  <string name="msg_set_action">你想干什么？</string>
+  <string name="txt_set_as_home_screen">设置为主屏幕</string>
+  <string name="txt_set_as_lock_screen">设置为锁屏</string>
+  <string name="txt_set_both_screen">设置两个屏幕</string>
+  <string name="txt_set_wallpaper">设置为墙纸</string>
+  <string name="txt_set_with">设置为</string>
+  <string name="txt_crop">庄稼</string>
+  <string name="txt_set_video_wallpaper">设置视频壁纸</string>
+  <string name="txt_save_to_device">保存到设备</string>
+  <string name="msg_wallpaper_success">壁纸更新</string>
+  <string name="msg_wallpaper_saved">壁纸已保存</string>
+  <string name="msg_wallpaper_failed">未应用壁纸</string>
+  <string name="msg_wallpaper_error">壁纸错误</string>
+  <!--set wallpaper option-->
+  <string name="txt_title_info">信息</string>
+  <string name="txt_info_name">姓名</string>
+  <string name="txt_info_category">类别</string>
+  <string name="txt_info_resolution">解决</string>
+  <string name="txt_info_size">尺寸</string>
+  <string name="txt_info_type">类型</string>
+  <string name="txt_info_views">意见</string>
+  <string name="txt_info_downloads">下载</string>
+  <string name="txt_info_tags">标签</string>
+  <!--dialog option-->
+  <string name="dialog_option_ok">好的</string>
+  <string name="dialog_option_yes">是的</string>
+  <string name="dialog_option_cancel">取消</string>
+  <string name="dialog_option_exit">出口</string>
+  <!--snack bar message-->
+  <string name="snack_bar_favorite_removed">已从收藏夹中删除</string>
+  <string name="snack_bar_favorite_added">已添加至收藏夹</string>
+  <!--network & error message-->
+  <string name="whops">哎呀！</string>
+  <string name="failed_title_text">哎呀！</string>
+  <string name="failed_text">您的网络出现问题或服务器当前已关闭，请稍后重试。</string>
+  <string name="no_category_found">目前似乎没有可用的类别</string>
+  <string name="no_search_wallpaper_found">没有找到壁纸！如果您想继续搜索，请尝试输入其他关键字！</string>
+  <string name="no_search_category_found">没有找到类别！如果您想继续搜索，请尝试输入其他关键字！</string>
+  <string name="msg_no_item">此部分似乎没有可用的壁纸。</string>
+  <string name="msg_no_favorite">您的收藏夹列表为空，因为您没有在收藏夹菜单中添加任何壁纸。</string>
+  <string name="btn_retry">重试</string>
+  <!--wallpaper and category aspect ratio-->
+  <string name="wallpaper_image_ratio_rectangle">H,1:1.5</string>
+  <string name="wallpaper_image_ratio_square">H,1:1</string>
+  <string name="category_image_ratio">H,2:1</string>
+  <!--search-->
+  <string name="search_hint">搜索…</string>
+  <string name="radio_button_wallpaper">墙纸</string>
+  <string name="radio_button_category">类别</string>
+  <string name="msg_search_input">请输入关键字</string>
+  <!--redirect if app suspended-->
+  <string name="redirect_title">新应用程序更新</string>
+  <string name="redirect_message">该应用程序已过期且不再使用，请按下面的按钮下载并安装该应用程序的最新更新。</string>
+  <string name="redirect_button">立即下载更新</string>
+  <string name="redirect_error">哎呀！网址有问题，请稍后重试</string>
+  <!--title tab menu which is only used when online tab menu is disabled from Config.java-->
+  <string name="tab_menu_recent">最近的</string>
+  <string name="tab_menu_featured">精选</string>
+  <string name="tab_menu_popular">受欢迎的</string>
+  <string name="tab_menu_random">随机的</string>
+  <string name="tab_menu_live">动态壁纸</string>
+  <!--settings and others-->
+  <string name="menu_settings">设置</string>
+  <string name="msg_clear_cache">您确定要清除缓存吗？</string>
+  <string name="title_setting_theme">黑暗主题</string>
+  <string name="sub_title_setting_theme">对视力更好电池寿命</string>
+  <string name="title_setting_display_wallpaper">显示壁纸</string>
+  <string name="option_menu_wallpaper_grid_2">2 列</string>
+  <string name="option_menu_wallpaper_grid_3">3 列</string>
+  <string name="title_setting_display_category">显示类别</string>
+  <string name="option_menu_category_list">列表</string>
+  <string name="option_menu_category_grid_2">2 列</string>
+  <string name="title_setting_notification">通知</string>
+  <string name="sub_title_setting_notification">订阅接收壁纸更新</string>
+  <string name="title_setting_clear_cache">清除缓存</string>
+  <string name="sub_setting_clear_cache_start">释放</string>
+  <string name="sub_setting_clear_cache_end">空间的</string>
+  <string name="title_setting_clear_search">清除搜索历史</string>
+  <string name="sub_title_setting_clear_search">删除您执行过的搜索</string>
+  <string name="title_dialog_clear_search_history">清除搜索历史</string>
+  <string name="msg_dialog_clear_search_history">您确定要清除您的搜索历史记录吗？</string>
+  <string name="clearing_empty">您的搜索记录为空</string>
+  <string name="clearing_success">搜索历史记录已成功清除...</string>
+  <string name="title_setting_privacy">隐私政策</string>
+  <string name="sub_title_setting_privacy">应用程序条款和条件政策</string>
+  <string name="title_setting_rate">评价我们</string>
+  <string name="sub_title_setting_rate">给出您对该应用程序的评分和评论</string>
+  <string name="title_setting_more_apps">更多应用程序</string>
+  <string name="sub_title_setting_more_apps">发现我们为您提供的其他应用程序</string>
+  <string name="title_setting_copyright">版权信息</string>
+  <string name="sub_title_setting_copyright">应用程序中提供的所有壁纸都是免费的，其版权归其各自所有者所有。这些壁纸根据知识共享零 (CC0) 许可证获得许可。如果您发现任何违反规定的壁纸，请联系我们，我们将删除该壁纸。</string>
+  <string name="title_setting_about">关于</string>
+  <string name="sub_title_setting_about">应用程序信息和构建版本</string>
+  <string name="msg_about_version">版本</string>
+  <string name="msg_cache_cleared">缓存已被清除</string>
+  <string name="title_setting_path">壁纸保存到</string>
+  <string name="wallpaper_count_text">壁纸</string>
+  <string name="img_content_description">去做</string>
+  <string name="msg_cancel_update">更新已取消</string>
+  <string name="msg_success_update">更新成功！</string>
+  <string name="msg_failed_update">更新失败！</string>
+  <string name="title_sort">排序壁纸</string>
+  <!--exit message-->
+  <string name="press_again_to_exit">再按一次退出</string>
+  <string name="msg_dialog_exit">您确定要退出该应用程序吗？</string>
+  <!--vpn alert-->
+  <string name="vpn_detected">检测到 VPN！</string>
+  <string name="close_vpn">关闭 VPN 并重新打开应用程序以继续。</string>
+  <!--rewarded option-->
+  <string name="msg_watch_ad">观看广告即可解锁并设置壁纸</string>
+  <string name="btn_watch_ad">观看广告</string>
+  <string name="btn_later">我稍后再做</string>
+  <string name="msg_rewarded_error">广告尚未发布，请稍后再试</string>
+  <!--  onboarding-->
+  <string name="todo" formatted="false">待办事项</string>
+  <string name="personalize_with_anime_wallpapers" formatted="false">个性化动漫壁纸</string>
+  <string name="next" formatted="false">下一个</string>
+  <string name="get_started" formatted="false">开始</string>
+  <string name="explore_a_huge_collection_of_top_tier_anime_wallpapers_for_any_screen" formatted="false">探索庞大的顶级动漫壁纸收藏，适用于任何屏幕。</string>
+  <string name="languages" formatted="false">语言</string>
+  <string name="system_language" formatted="false">系统语言</string>
+  <string name="live_wallpapers_anime_magic" formatted="false">动态壁纸，动漫魅力</string>
+  <string name="dive_into_the_dynamic_anime_world_with_animated_wallpapers" formatted="false">使用动画壁纸深入体验充满活力的动漫世界。</string>
+  <string name="your_favorites_your_way" formatted="false">您的喜爱，您的方式</string>
+  <string name="craft_a_personalized_collection_of_anime_favorites_with_animexa" formatted="false">用 Animexa 打造个性化的动漫收藏。</string>
+
+</resources>

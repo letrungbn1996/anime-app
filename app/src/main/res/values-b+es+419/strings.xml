@@ -1,0 +1,153 @@
+<resources>
+
+  <!--app info-->
+  <string name="app_name">Animexa</string>
+  <string name="app_copyright">Copyright © 2024 por Animexa\n Reservados todos los derechos</string>
+  <string name="share_text">🌟 ¡Explora impresionantes fondos de pantalla de anime con nuestra aplicación! Transforma tu dispositivo con obras maestras de alta resolución. 🎨✨ ¡Descárgalo ahora y mejora la estética de tu pantalla!</string>
+  
+  <!--navigation name-->
+  <string name="title_nav_wallpaper">Fondo de pantalla</string>
+  <string name="title_nav_category">Categoría</string>
+  <string name="title_nav_favorite">Favorito</string>
+  
+  <!--wallpaper set action-->
+  <string name="msg_set_action">Que te gustaría hacer?</string>
+  <string name="txt_set_as_home_screen">Establecer como pantalla de inicio</string>
+  <string name="txt_set_as_lock_screen">Establecer como pantalla de bloqueo</string>
+  <string name="txt_set_both_screen">Configurar ambas pantallas</string>
+  <string name="txt_set_wallpaper">Establecer como fondo de pantalla</string>
+  <string name="txt_set_with">Colocado con</string>
+  <string name="txt_crop">Cultivo</string>
+  <string name="txt_set_video_wallpaper">Establecer fondo de pantalla de vídeo</string>
+  <string name="txt_save_to_device">Guardar en el dispositivo</string>
+  <string name="msg_wallpaper_success">Fondo de pantalla actualizado</string>
+  <string name="msg_wallpaper_saved">Fondo de pantalla guardado</string>
+  <string name="msg_wallpaper_failed">Fondo de pantalla no aplicado</string>
+  <string name="msg_wallpaper_error">Error de fondo de pantalla</string>
+  
+  <!--set wallpaper option-->
+  <string name="txt_title_info">Información</string>
+  <string name="txt_info_name">Nombre</string>
+  <string name="txt_info_category">Categoría</string>
+  <string name="txt_info_resolution">Resolución</string>
+  <string name="txt_info_size">Tamaño</string>
+  <string name="txt_info_type">Tipo</string>
+  <string name="txt_info_views">Puntos de vista</string>
+  <string name="txt_info_downloads">Descargas</string>
+  <string name="txt_info_tags">Etiquetas</string>
+  
+  <!--dialog option-->
+  <string name="dialog_option_ok">DE ACUERDO</string>
+  <string name="dialog_option_yes">Sí</string>
+  <string name="dialog_option_cancel">Cancelar</string>
+  <string name="dialog_option_exit">Salida</string>
+  
+  <!--snack bar message-->
+  <string name="snack_bar_favorite_removed">Eliminado de favorito</string>
+  <string name="snack_bar_favorite_added">Añadido a favorito</string>
+  
+  <!--network & error message-->
+  <string name="whops">¡Vaya!</string>
+  <string name="failed_title_text">¡Vaya!</string>
+  <string name="failed_text">Hay algún problema con su red o el servidor no funciona actualmente; inténtelo nuevamente más tarde.</string>
+  <string name="no_category_found">Parece que no hay ninguna categoría disponible en este momento.</string>
+  <string name="no_search_wallpaper_found">¡No se encontraron fondos de pantalla! Si desea continuar la búsqueda, intente ingresar otra palabra clave.</string>
+  <string name="no_search_category_found">¡No se encontró ninguna categoría! Si desea continuar la búsqueda, intente ingresar otra palabra clave.</string>
+  <string name="msg_no_item">Parece que no hay fondos de pantalla disponibles en esta sección.</string>
+  <string name="msg_no_favorite">Su lista de favoritos está vacía porque no agrega ningún fondo de pantalla en el menú de favoritos.</string>
+  <string name="btn_retry">Rever</string>
+  
+  <!--wallpaper and category aspect ratio-->
+  <string name="wallpaper_image_ratio_rectangle">H,1:1.5</string>
+  <string name="wallpaper_image_ratio_square">H,1:1</string>
+  <string name="category_image_ratio">H,2:1</string>
+  
+  <!--search-->
+  <string name="search_hint">Buscar…</string>
+  <string name="radio_button_wallpaper">Fondo de pantalla</string>
+  <string name="radio_button_category">Categoría</string>
+  <string name="msg_search_input">Por favor inserte la palabra clave</string>
+  
+  <!--redirect if app suspended-->
+  <string name="redirect_title">Nuevas actualizaciones de aplicaciones</string>
+  <string name="redirect_message">Esta aplicación ha caducado y ya no se utiliza, presione el botón a continuación para descargar e instalar la última actualización de esta aplicación.</string>
+  <string name="redirect_button">Descargar actualización ahora</string>
+  <string name="redirect_error">¡Vaya! Hay un problema con la URL, vuelve a intentarlo más tarde.</string>
+  
+  <!--title tab menu which is only used when online tab menu is disabled from Config.java-->
+  <string name="tab_menu_recent">Reciente</string>
+  <string name="tab_menu_featured">Presentado</string>
+  <string name="tab_menu_popular">Popular</string>
+  <string name="tab_menu_random">Aleatorio</string>
+  <string name="tab_menu_live">Fondo de pantalla en vivo</string>
+  
+  <!--settings and others-->
+  <string name="menu_settings">Ajustes</string>
+  <string name="msg_clear_cache">¿Estás seguro de que quieres borrar el caché?</string>
+  <string name="title_setting_theme">Tema oscuro</string>
+  <string name="sub_title_setting_theme">Mejor para la vista y la salud. duración de la batería</string>
+  <string name="title_setting_display_wallpaper">Fondo de Pantalla</string>
+  <string name="option_menu_wallpaper_grid_2">2 columnas</string>
+  <string name="option_menu_wallpaper_grid_3">3 columnas</string>
+  <string name="title_setting_display_category">Categoría de visualización</string>
+  <string name="option_menu_category_list">Lista</string>
+  <string name="option_menu_category_grid_2">2 columnas</string>
+  <string name="title_setting_notification">Notificación</string>
+  <string name="sub_title_setting_notification">Suscríbete para recibir actualizaciones de fondos de pantalla</string>
+  <string name="title_setting_clear_cache">Limpiar cache</string>
+  <string name="sub_setting_clear_cache_start">Liberar</string>
+  <string name="sub_setting_clear_cache_end">del espacio</string>
+  <string name="title_setting_clear_search">Limpiar historial de búsqueda</string>
+  <string name="sub_title_setting_clear_search">Eliminar búsquedas que hayas realizado</string>
+  <string name="title_dialog_clear_search_history">Limpiar historial de búsqueda</string>
+  <string name="msg_dialog_clear_search_history">¿Estás seguro de que quieres borrar tu historial de búsqueda?</string>
+  <string name="clearing_empty">Tu historial de búsqueda está vacío</string>
+  <string name="clearing_success">El historial de búsqueda se borró correctamente...</string>
+  <string name="title_setting_privacy">política de privacidad</string>
+  <string name="sub_title_setting_privacy">Términos y condiciones de la aplicación Políticas</string>
+  <string name="title_setting_rate">Nos califica</string>
+  <string name="sub_title_setting_rate">Da tu calificación y reseña de la aplicación.</string>
+  <string name="title_setting_more_apps">Más aplicaciones</string>
+  <string name="sub_title_setting_more_apps">Descubra nuestras otras aplicaciones para usted</string>
+  <string name="title_setting_copyright">informacion registrada</string>
+  <string name="sub_title_setting_copyright">Todos los fondos de pantalla que están disponibles en la aplicación son gratuitos y el crédito va a sus respectivos propietarios. Estos fondos de pantalla tienen la licencia Creative Commons Zero (CC0). Comuníquese con nosotros si encuentra algún fondo de pantalla que viole alguna regla y lo eliminaremos.</string>
+  <string name="title_setting_about">Acerca de</string>
+  <string name="sub_title_setting_about">Información de la aplicación y versión de compilación</string>
+  <string name="msg_about_version">Versión</string>
+  <string name="msg_cache_cleared">el caché ha sido borrado</string>
+  <string name="title_setting_path">Fondo de pantalla guardado en</string>
+  <string name="wallpaper_count_text">Fondos de pantalla</string>
+  <string name="img_content_description">HACER</string>
+  <string name="msg_cancel_update">Actualización cancelada</string>
+  <string name="msg_success_update">¡Actualización exitosa!</string>
+  <string name="msg_failed_update">¡La actualización falló!</string>
+  <string name="title_sort">Ordenar fondos de pantalla</string>
+  
+  <!--exit message-->
+  <string name="press_again_to_exit">Presione nuevamente para salir</string>
+  <string name="msg_dialog_exit">¿Estás seguro de que quieres salir de la aplicación?</string>
+  
+  <!--vpn alert-->
+  <string name="vpn_detected">¡VPN detectada!</string>
+  <string name="close_vpn">Cierre la VPN y vuelva a abrir la aplicación para continuar.</string>
+  
+  <!--rewarded option-->
+  <string name="msg_watch_ad">Mira el anuncio para poder desbloquear y configurar el fondo de pantalla.</string>
+  <string name="btn_watch_ad">Ver anuncio</string>
+  <string name="btn_later">lo haré más tarde</string>
+  <string name="msg_rewarded_error">El anuncio aún no está disponible, inténtalo de nuevo más tarde.</string>
+
+<!--  onboarding-->
+  <string name="todo" formatted="false">Por hacer</string>
+  <string name="personalize_with_anime_wallpapers" formatted="false">Personaliza con Fondos de Pantalla de Anime</string>
+  <string name="next" formatted="false">Siguiente</string>
+  <string name="get_started" formatted="false">Empezar</string>
+  <string name="explore_a_huge_collection_of_top_tier_anime_wallpapers_for_any_screen" formatted="false">Explora una gran colección de fondos de pantalla de anime de primera categoría para cualquier pantalla.</string>
+  <string name="languages" formatted="false">Idiomas</string>
+  <string name="system_language" formatted="false">Idioma del sistema</string>
+  <string name="live_wallpapers_anime_magic" formatted="false">Fondos de Pantalla en Vivo, Magia Anime</string>
+  <string name="dive_into_the_dynamic_anime_world_with_animated_wallpapers" formatted="false">Sumérgete en el mundo dinámico del anime con fondos de pantalla animados.</string>
+  <string name="your_favorites_your_way" formatted="false">Tus Favoritos, a Tu Manera</string>
+  <string name="craft_a_personalized_collection_of_anime_favorites_with_animexa" formatted="false">Crea una colección personalizada de tus animes favoritos con Animexa.</string>
+
+</resources>

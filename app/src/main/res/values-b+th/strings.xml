@@ -1,0 +1,137 @@
+<resources>
+  <!--app info-->
+  <string name="app_name">Animexa</string>
+  <string name="app_copyright">ลิขสิทธิ์© 2024 โดย Animexa\n สงวนลิขสิทธิ์</string>
+  <string name="share_text">🌟 สำรวจวอลเปเปอร์อนิเมะที่น่าทึ่งด้วยแอพของเรา! แปลงโฉมอุปกรณ์ของคุณด้วยผลงานชิ้นเอกที่มีความละเอียดสูง ✨ ดาวน์โหลดตอนนี้และยกระดับความสวยงามของหน้าจอของคุณ!</string>
+  <!--navigation name-->
+  <string name="title_nav_wallpaper">วอลล์เปเปอร์</string>
+  <string name="title_nav_category">หมวดหมู่</string>
+  <string name="title_nav_favorite">ที่ชื่นชอบ</string>
+  <!--wallpaper set action-->
+  <string name="msg_set_action">คุณอยากจะทำอะไร?</string>
+  <string name="txt_set_as_home_screen">ตั้งเป็นหน้าจอหลัก</string>
+  <string name="txt_set_as_lock_screen">ตั้งเป็นหน้าจอล็อค</string>
+  <string name="txt_set_both_screen">ตั้งค่าทั้งหน้าจอ</string>
+  <string name="txt_set_wallpaper">ตั้งเป็นภาพพื้นหลัง</string>
+  <string name="txt_set_with">ตั้งด้วย</string>
+  <string name="txt_crop">ครอบตัด</string>
+  <string name="txt_set_video_wallpaper">ตั้งค่าวอลเปเปอร์วิดีโอ</string>
+  <string name="txt_save_to_device">บันทึกลงในอุปกรณ์</string>
+  <string name="msg_wallpaper_success">อัปเดตวอลเปเปอร์แล้ว</string>
+  <string name="msg_wallpaper_saved">บันทึกวอลเปเปอร์แล้ว</string>
+  <string name="msg_wallpaper_failed">ไม่ได้ใช้วอลเปเปอร์</string>
+  <string name="msg_wallpaper_error">ข้อผิดพลาดวอลเปเปอร์</string>
+  <!--set wallpaper option-->
+  <string name="txt_title_info">ข้อมูล</string>
+  <string name="txt_info_name">ชื่อ</string>
+  <string name="txt_info_category">หมวดหมู่</string>
+  <string name="txt_info_resolution">ปณิธาน</string>
+  <string name="txt_info_size">ขนาด</string>
+  <string name="txt_info_type">พิมพ์</string>
+  <string name="txt_info_views">จำนวนการดู</string>
+  <string name="txt_info_downloads">ดาวน์โหลด</string>
+  <string name="txt_info_tags">แท็ก</string>
+  <!--dialog option-->
+  <string name="dialog_option_ok">ตกลง</string>
+  <string name="dialog_option_yes">ใช่</string>
+  <string name="dialog_option_cancel">ยกเลิก</string>
+  <string name="dialog_option_exit">ออก</string>
+  <!--snack bar message-->
+  <string name="snack_bar_favorite_removed">ลบออกจากรายการโปรดแล้ว</string>
+  <string name="snack_bar_favorite_added">เพิ่มเป็นรายการโปรดแล้ว</string>
+  <!--network & error message-->
+  <string name="whops">อ๊ะ!</string>
+  <string name="failed_title_text">อ๊ะ!</string>
+  <string name="failed_text">มีปัญหาบางอย่างกับเครือข่ายของคุณหรือเซิร์ฟเวอร์ล่มในขณะนี้ โปรดลองอีกครั้งในภายหลัง</string>
+  <string name="no_category_found">ดูเหมือนว่าไม่มีหมวดหมู่ที่ใช้ได้ในขณะนี้</string>
+  <string name="no_search_wallpaper_found">ไม่พบวอลเปเปอร์! หากคุณต้องการค้นหาต่อ กรุณาลองป้อนคำสำคัญอื่น!</string>
+  <string name="no_search_category_found">ไม่พบหมวดหมู่! หากคุณต้องการค้นหาต่อ กรุณาลองป้อนคำสำคัญอื่น!</string>
+  <string name="msg_no_item">ดูเหมือนว่าไม่มีวอลเปเปอร์ในส่วนนี้</string>
+  <string name="msg_no_favorite">รายการโปรดของคุณว่างเปล่าเนื่องจากคุณไม่ได้เพิ่มวอลเปเปอร์ใดๆ ในเมนูรายการโปรด</string>
+  <string name="btn_retry">ลองอีกครั้ง</string>
+  <!--wallpaper and category aspect ratio-->
+  <string name="wallpaper_image_ratio_rectangle">H,1:1.5</string>
+  <string name="wallpaper_image_ratio_square">H,1:1</string>
+  <string name="category_image_ratio">H,2:1</string>
+  <!--search-->
+  <string name="search_hint">ค้นหา…</string>
+  <string name="radio_button_wallpaper">วอลล์เปเปอร์</string>
+  <string name="radio_button_category">หมวดหมู่</string>
+  <string name="msg_search_input">กรุณาใส่คำสำคัญ</string>
+  <!--redirect if app suspended-->
+  <string name="redirect_title">การอัปเดตแอปใหม่</string>
+  <string name="redirect_message">แอปพลิเคชันนี้หมดอายุแล้วและไม่ได้ใช้งานอีกต่อไป กดปุ่มด้านล่างเพื่อดาวน์โหลดและติดตั้งการอัปเดตล่าสุดของแอปพลิเคชันนี้</string>
+  <string name="redirect_button">ดาวน์โหลดอัปเดตทันที</string>
+  <string name="redirect_error">อ๊ะ! มีปัญหากับ url โปรดลองอีกครั้งในภายหลัง</string>
+  <!--title tab menu which is only used when online tab menu is disabled from Config.java-->
+  <string name="tab_menu_recent">ล่าสุด</string>
+  <string name="tab_menu_featured">จุดเด่น</string>
+  <string name="tab_menu_popular">เป็นที่นิยม</string>
+  <string name="tab_menu_random">สุ่ม</string>
+  <string name="tab_menu_live">วอลล์เปเปอร์สด</string>
+  <!--settings and others-->
+  <string name="menu_settings">การตั้งค่า</string>
+  <string name="msg_clear_cache">คุณแน่ใจหรือไม่ว่าต้องการล้างแคช</string>
+  <string name="title_setting_theme">ธีมสีเข้ม</string>
+  <string name="sub_title_setting_theme">ดีกว่าสำหรับสายตา &amp; อายุการใช้งานแบตเตอรี่</string>
+  <string name="title_setting_display_wallpaper">แสดงวอลเปเปอร์</string>
+  <string name="option_menu_wallpaper_grid_2">2 คอลัมน์</string>
+  <string name="option_menu_wallpaper_grid_3">3 คอลัมน์</string>
+  <string name="title_setting_display_category">หมวดหมู่การแสดงผล</string>
+  <string name="option_menu_category_list">รายการ</string>
+  <string name="option_menu_category_grid_2">2 คอลัมน์</string>
+  <string name="title_setting_notification">การแจ้งเตือน</string>
+  <string name="sub_title_setting_notification">สมัครสมาชิกเพื่อรับการอัพเดตวอลเปเปอร์</string>
+  <string name="title_setting_clear_cache">ล้างแคช</string>
+  <string name="sub_setting_clear_cache_start">ฟรี</string>
+  <string name="sub_setting_clear_cache_end">ของพื้นที่</string>
+  <string name="title_setting_clear_search">ลบประวัติการค้นหา</string>
+  <string name="sub_title_setting_clear_search">ลบการค้นหาที่คุณทำ</string>
+  <string name="title_dialog_clear_search_history">ลบประวัติการค้นหา</string>
+  <string name="msg_dialog_clear_search_history">คุณแน่ใจหรือไม่ว่าต้องการล้างประวัติการค้นหาของคุณ?</string>
+  <string name="clearing_empty">ประวัติการค้นหาของคุณว่างเปล่า</string>
+  <string name="clearing_success">ล้างประวัติการค้นหาเรียบร้อยแล้ว...</string>
+  <string name="title_setting_privacy">นโยบายความเป็นส่วนตัว</string>
+  <string name="sub_title_setting_privacy">ข้อกำหนดของแอป &amp; นโยบาย</string>
+  <string name="title_setting_rate">ให้คะแนนเรา</string>
+  <string name="sub_title_setting_rate">ให้คะแนนและวิจารณ์แอปของคุณ</string>
+  <string name="title_setting_more_apps">แอพเพิ่มเติม</string>
+  <string name="sub_title_setting_more_apps">ค้นพบแอปอื่นๆ ของเราสำหรับคุณ</string>
+  <string name="title_setting_copyright">ข้อมูลลิขสิทธิ์</string>
+  <string name="sub_title_setting_copyright">วอลเปเปอร์ทั้งหมดที่มีอยู่ในแอปนั้นฟรี และเครดิตจะมอบให้กับเจ้าของที่เกี่ยวข้อง วอลเปเปอร์เหล่านี้ได้รับอนุญาตภายใต้ใบอนุญาต Creative Commons Zero (CC0) โปรดติดต่อเราหากคุณพบวอลเปเปอร์ที่ละเมิดกฎใด ๆ และเราจะลบวอลเปเปอร์นั้นออก</string>
+  <string name="title_setting_about">เกี่ยวกับ</string>
+  <string name="sub_title_setting_about">ข้อมูลแอป  &amp; รุ่นสร้าง</string>
+  <string name="msg_about_version">เวอร์ชัน</string>
+  <string name="msg_cache_cleared">ล้างแคชแล้ว</string>
+  <string name="title_setting_path">วอลล์เปเปอร์ที่บันทึกไว้ใน</string>
+  <string name="wallpaper_count_text">วอลเปเปอร์</string>
+  <string name="img_content_description">ทำ</string>
+  <string name="msg_cancel_update">ยกเลิกการอัพเดตแล้ว</string>
+  <string name="msg_success_update">อัพเดทความสำเร็จ!</string>
+  <string name="msg_failed_update">การอัพเดทล้มเหลว!</string>
+  <string name="title_sort">จัดเรียงวอลเปเปอร์</string>
+  <!--exit message-->
+  <string name="press_again_to_exit">กดอีกครั้งเพื่อออก</string>
+  <string name="msg_dialog_exit">คุณแน่ใจหรือไม่ว่าต้องการออกจากแอป</string>
+  <!--vpn alert-->
+  <string name="vpn_detected">ตรวจพบ VPN!</string>
+  <string name="close_vpn">ปิด VPN แล้วเปิดแอปอีกครั้งเพื่อดำเนินการต่อ</string>
+  <!--rewarded option-->
+  <string name="msg_watch_ad">ดูโฆษณาเพื่อให้สามารถปลดล็อกและตั้งค่าวอลเปเปอร์ได้</string>
+  <string name="btn_watch_ad">ดูโฆษณา</string>
+  <string name="btn_later">ฉันจะทำในภายหลัง</string>
+  <string name="msg_rewarded_error">โฆษณายังไม่พร้อมใช้งาน โปรดลองอีกครั้งในภายหลัง</string>
+  <!--  onboarding-->
+  <string name="todo" formatted="false">สิ่งที่ต้องทำ</string>
+  <string name="personalize_with_anime_wallpapers" formatted="false">ปรับแต่งด้วยวอลเปเปอร์อนิเมะ</string>
+  <string name="next" formatted="false">ถัดไป</string>
+  <string name="get_started" formatted="false">เริ่มต้น</string>
+  <string name="explore_a_huge_collection_of_top_tier_anime_wallpapers_for_any_screen" formatted="false">สำรวจคอลเล็กชันขนาดใหญ่ของวอลเปเปอร์อนิเมะระดับบนสำหรับหน้าจอใดก็ได้</string>
+  <string name="languages" formatted="false">ภาษา</string>
+  <string name="system_language" formatted="false">ภาษาของระบบ</string>
+  <string name="live_wallpapers_anime_magic" formatted="false">วอลเปเปอร์สด, เวทมนตร์อนิเมะ</string>
+  <string name="dive_into_the_dynamic_anime_world_with_animated_wallpapers" formatted="false">ลองลงในโลกอนิเมะที่ไดนามิกด้วยวอลเปเปอร์แอนิเมชัน</string>
+  <string name="your_favorites_your_way" formatted="false">สิ่งที่คุณชื่นชอบตามแบบคุณ</string>
+  <string name="craft_a_personalized_collection_of_anime_favorites_with_animexa" formatted="false">สร้างคอลเล็กชันที่ปรับแต่งส่วนตัวของอนิเมะที่คุณชื่นชอบด้วย Animexa</string>
+
+</resources>

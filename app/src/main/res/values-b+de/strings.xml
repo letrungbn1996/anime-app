@@ -1,0 +1,146 @@
+<resources>
+  <!--app info-->
+  <string name="app_name">Animexa</string>
+  <string name="app_copyright">Urheberrecht © 2024 bei Animexa\n Alle Rechte vorbehalten</string>
+  <string name="share_text">🌟 Entdecken Sie atemberaubende Anime-Hintergrundbilder mit unserer App! Verwandeln Sie Ihr Gerät mit hochauflösenden Meisterwerken. 🎨✨ Laden Sie es jetzt herunter und verbessern Sie die Ästhetik Ihres Bildschirms!</string>
+
+  <!--navigation name-->
+  <string name="title_nav_wallpaper">Hintergrund</string>
+  <string name="title_nav_category">Kategorie</string>
+  <string name="title_nav_favorite">Favorit</string>
+
+  <!--wallpaper set action-->
+  <string name="msg_set_action">Was würdest du gern tun?</string>
+  <string name="txt_set_as_home_screen">Als Startbildschirm festlegen</string>
+  <string name="txt_set_as_lock_screen">Als Sperrbildschirm verwenden</string>
+  <string name="txt_set_both_screen">Stellen Sie beide Bildschirme ein</string>
+  <string name="txt_set_wallpaper">Als Hintergrundbild festlegen</string>
+  <string name="txt_set_with">Set mit</string>
+  <string name="txt_crop">Ernte</string>
+  <string name="txt_set_video_wallpaper">Video-Hintergrundbild festlegen</string>
+  <string name="txt_save_to_device">Auf Gerät speichern</string>
+  <string name="msg_wallpaper_success">Hintergrundbild aktualisiert</string>
+  <string name="msg_wallpaper_saved">Hintergrundbild gespeichert</string>
+  <string name="msg_wallpaper_failed">Tapete nicht angebracht</string>
+  <string name="msg_wallpaper_error">Hintergrundbildfehler</string>
+
+  <!--set wallpaper option-->
+  <string name="txt_title_info">Die Info</string>
+  <string name="txt_info_name">Name</string>
+  <string name="txt_info_category">Kategorie</string>
+  <string name="txt_info_resolution">Auflösung</string>
+  <string name="txt_info_size">Größe</string>
+  <string name="txt_info_type">Typ</string>
+  <string name="txt_info_views">Ansichten</string>
+  <string name="txt_info_downloads">Downloads</string>
+  <string name="txt_info_tags">Stichworte</string>
+
+  <!--dialog option-->
+  <string name="dialog_option_ok">OK</string>
+  <string name="dialog_option_yes">Ja</string>
+  <string name="dialog_option_cancel">Stornieren</string>
+  <string name="dialog_option_exit">Ausfahrt</string>
+
+  <!--snack bar message-->
+  <string name="snack_bar_favorite_removed">Aus Favorit entfernt</string>
+  <string name="snack_bar_favorite_added">Zum Favoriten hinzugefügt</string>
+
+  <!--network & error message-->
+  <string name="whops">Hoppla!</string>
+  <string name="failed_title_text">Hoppla!</string>
+  <string name="failed_text">Es liegt ein Problem mit Ihrem Netzwerk vor oder der Server ist derzeit nicht verfügbar. Bitte versuchen Sie es später noch einmal.</string>
+  <string name="no_category_found">Es sieht so aus, als ob derzeit keine Kategorie verfügbar ist</string>
+  <string name="no_search_wallpaper_found">Keine Hintergrundbilder gefunden! Wenn Sie die Suche fortsetzen möchten, versuchen Sie es bitte mit der Eingabe eines anderen Schlüsselworts!</string>
+  <string name="no_search_category_found">Keine Kategorie gefunden! Wenn Sie die Suche fortsetzen möchten, versuchen Sie es bitte mit der Eingabe eines anderen Schlüsselworts!</string>
+  <string name="msg_no_item">Es sieht so aus, als ob in diesem Abschnitt keine Hintergrundbilder verfügbar sind.</string>
+  <string name="msg_no_favorite">Ihre Favoritenliste ist leer, da Sie im Favoritenmenü keine Hintergrundbilder hinzugefügt haben.</string>
+  <string name="btn_retry">Wiederholen</string>
+
+  <!--wallpaper and category aspect ratio-->
+  <string name="wallpaper_image_ratio_rectangle">H,1:1.5</string>
+  <string name="wallpaper_image_ratio_square">H,1:1</string>
+  <string name="category_image_ratio">H,2:1</string>
+
+  <!--search-->
+  <string name="search_hint">Suchen…</string>
+  <string name="radio_button_wallpaper">Hintergrund</string>
+  <string name="radio_button_category">Kategorie</string>
+  <string name="msg_search_input">Bitte geben Sie ein Schlüsselwort ein</string>
+  <!--redirect if app suspended-->
+  <string name="redirect_title">Neue App-Updates</string>
+  <string name="redirect_message">Diese Anwendung ist abgelaufen und wird nicht mehr verwendet. Klicken Sie auf die Schaltfläche unten, um das neueste Update dieser Anwendung herunterzuladen und zu installieren.</string>
+  <string name="redirect_button">Laden Sie das Update jetzt herunter</string>
+  <string name="redirect_error">Hoppla! Es liegt ein Problem mit der URL vor. Versuchen Sie es später noch einmal</string>
+  <!--title tab menu which is only used when online tab menu is disabled from Config.java-->
+  <string name="tab_menu_recent">Jüngste</string>
+  <string name="tab_menu_featured">Hervorgehoben</string>
+  <string name="tab_menu_popular">Beliebt</string>
+  <string name="tab_menu_random">Zufällig</string>
+  <string name="tab_menu_live">Live Hintergrund</string>
+  <!--settings and others-->
+  <string name="menu_settings">Einstellungen</string>
+  <string name="msg_clear_cache">Möchten Sie den Cache wirklich löschen?</string>
+  <string name="title_setting_theme">Dunkles Thema</string>
+  <string name="sub_title_setting_theme">Besser für Sehvermögen und Sehvermögen Batterielebensdauer</string>
+  <string name="title_setting_display_wallpaper">Hintergrundbild anzeigen</string>
+  <string name="option_menu_wallpaper_grid_2">2 Spalten</string>
+  <string name="option_menu_wallpaper_grid_3">3 Spalten</string>
+  <string name="title_setting_display_category">Kategorie anzeigen</string>
+  <string name="option_menu_category_list">Aufführen</string>
+  <string name="option_menu_category_grid_2">2 Spalten</string>
+  <string name="title_setting_notification">Benachrichtigung</string>
+  <string name="sub_title_setting_notification">Abonnieren Sie, um Hintergrundbild-Updates zu erhalten</string>
+  <string name="title_setting_clear_cache">Cache leeren</string>
+  <string name="sub_setting_clear_cache_start">Befreien Sie sich</string>
+  <string name="sub_setting_clear_cache_end">Raum</string>
+  <string name="title_setting_clear_search">Suchverlauf löschen</string>
+  <string name="sub_title_setting_clear_search">Entfernen Sie von Ihnen durchgeführte Suchanfragen</string>
+  <string name="title_dialog_clear_search_history">Suchverlauf löschen</string>
+  <string name="msg_dialog_clear_search_history">Möchten Sie Ihren Suchverlauf wirklich löschen?</string>
+  <string name="clearing_empty">Ihr Suchverlauf ist leer</string>
+  <string name="clearing_success">Suchverlauf erfolgreich gelöscht…</string>
+  <string name="title_setting_privacy">Datenschutzrichtlinie</string>
+  <string name="sub_title_setting_privacy">App-Bedingungen &amp; Richtlinien</string>
+  <string name="title_setting_rate">Bewerten Sie uns</string>
+  <string name="sub_title_setting_rate">Geben Sie Ihre Bewertung und Rezension für die App ab</string>
+  <string name="title_setting_more_apps">Mehr Apps</string>
+  <string name="sub_title_setting_more_apps">Entdecken Sie unsere anderen Apps für Sie</string>
+  <string name="title_setting_copyright">Urheberrechtsinformation</string>
+  <string name="sub_title_setting_copyright">Alle in der App verfügbaren Hintergrundbilder sind kostenlos und die Gutschrift geht an die jeweiligen Besitzer. Diese Hintergrundbilder sind unter der Creative Commons Zero (CC0)-Lizenz lizenziert. Bitte kontaktieren Sie uns, wenn Sie ein Hintergrundbild finden, das gegen Regeln verstößt. Wir werden das Hintergrundbild dann entfernen.</string>
+  <string name="title_setting_about">Um</string>
+  <string name="sub_title_setting_about">App-Info  &amp; Build-Version</string>
+  <string name="msg_about_version">Ausführung</string>
+  <string name="msg_cache_cleared">Cache wurde geleert</string>
+  <string name="title_setting_path">Hintergrundbild gespeichert unter</string>
+  <string name="wallpaper_count_text">Hintergrundbilder</string>
+  <string name="img_content_description">MACHEN</string>
+  <string name="msg_cancel_update">Update abgebrochen</string>
+  <string name="msg_success_update">Update erfolgreich!</string>
+  <string name="msg_failed_update">Update fehlgeschlagen!</string>
+  <string name="title_sort">Hintergrundbilder sortieren</string>
+  <!--exit message-->
+  <string name="press_again_to_exit">Drücken Sie erneut, um den Vorgang zu beenden</string>
+  <string name="msg_dialog_exit">Möchten Sie die App wirklich beenden?</string>
+  <!--vpn alert-->
+  <string name="vpn_detected">VPN erkannt!</string>
+  <string name="close_vpn">Schließen Sie VPN und öffnen Sie die App erneut, um fortzufahren.</string>
+  <!--rewarded option-->
+  <string name="msg_watch_ad">Sehen Sie sich die Anzeige an, um das Hintergrundbild zu entsperren und festzulegen</string>
+  <string name="btn_watch_ad">Anzeige ansehen</string>
+  <string name="btn_later">Ich mache es später</string>
+  <string name="msg_rewarded_error">Die Anzeige ist noch nicht verfügbar. Bitte versuchen Sie es später noch einmal</string>
+
+  <!--  onboarding-->
+  <string name="todo" formatted="false">Ausstehend</string>
+  <string name="personalize_with_anime_wallpapers" formatted="false">Personalisieren mit Anime-Hintergründen</string>
+  <string name="next" formatted="false">Weiter</string>
+  <string name="get_started" formatted="false">Loslegen</string>
+  <string name="explore_a_huge_collection_of_top_tier_anime_wallpapers_for_any_screen" formatted="false">Entdecke eine große Sammlung von erstklassigen Anime-Hintergründen für jeden Bildschirm.</string>
+  <string name="languages" formatted="false">Sprachen</string>
+  <string name="system_language" formatted="false">Systemsprache</string>
+  <string name="live_wallpapers_anime_magic" formatted="false">Live-Hintergründe, Anime-Zauber</string>
+  <string name="dive_into_the_dynamic_anime_world_with_animated_wallpapers" formatted="false">Tauche ein in die dynamische Anime-Welt mit animierten Hintergründen.</string>
+  <string name="your_favorites_your_way" formatted="false">Deine Favoriten, Deine Art</string>
+  <string name="craft_a_personalized_collection_of_anime_favorites_with_animexa" formatted="false">Erstelle eine personalisierte Sammlung von Lieblings-Animes mit Animexa.</string>
+
+</resources>

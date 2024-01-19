@@ -1,0 +1,137 @@
+<resources>
+  <!--app info-->
+  <string name="app_name">Animexa</string>
+  <string name="app_copyright">저작권 © 2024 by Animexa\n 판권 소유</string>
+  <string name="share_text">🌟 우리 앱으로 멋진 애니메이션 배경화면을 탐색해보세요! 고해상도 걸작으로 귀하의 장치를 변화시켜 보세요. ✨ 지금 다운로드하여 화면의 미적 아름다움을 높여보세요!</string>
+  <!--navigation name-->
+  <string name="title_nav_wallpaper">벽지</string>
+  <string name="title_nav_category">범주</string>
+  <string name="title_nav_favorite">가장 좋아하는</string>
+  <!--wallpaper set action-->
+  <string name="msg_set_action">무엇을하고 싶으십니까?</string>
+  <string name="txt_set_as_home_screen">홈 화면으로 설정</string>
+  <string name="txt_set_as_lock_screen">잠금 화면으로 설정</string>
+  <string name="txt_set_both_screen">두 화면 모두 설정</string>
+  <string name="txt_set_wallpaper">배경화면으로 설정</string>
+  <string name="txt_set_with">다음으로 설정</string>
+  <string name="txt_crop">수확고</string>
+  <string name="txt_set_video_wallpaper">비디오 배경화면 설정</string>
+  <string name="txt_save_to_device">장치에 저장</string>
+  <string name="msg_wallpaper_success">배경화면이 업데이트되었습니다.</string>
+  <string name="msg_wallpaper_saved">배경화면이 저장되었습니다.</string>
+  <string name="msg_wallpaper_failed">배경화면이 적용되지 않음</string>
+  <string name="msg_wallpaper_error">배경화면 오류</string>
+  <!--set wallpaper option-->
+  <string name="txt_title_info">정보</string>
+  <string name="txt_info_name">이름</string>
+  <string name="txt_info_category">범주</string>
+  <string name="txt_info_resolution">해결</string>
+  <string name="txt_info_size">크기</string>
+  <string name="txt_info_type">유형</string>
+  <string name="txt_info_views">견해</string>
+  <string name="txt_info_downloads">다운로드</string>
+  <string name="txt_info_tags">태그</string>
+  <!--dialog option-->
+  <string name="dialog_option_ok">좋아요</string>
+  <string name="dialog_option_yes">예</string>
+  <string name="dialog_option_cancel">취소</string>
+  <string name="dialog_option_exit">출구</string>
+  <!--snack bar message-->
+  <string name="snack_bar_favorite_removed">즐겨찾기에서 삭제됨</string>
+  <string name="snack_bar_favorite_added">즐겨찾기에 추가됨</string>
+  <!--network & error message-->
+  <string name="whops">앗!</string>
+  <string name="failed_title_text">앗!</string>
+  <string name="failed_text">네트워크에 문제가 있거나 현재 서버가 다운되었습니다. 잠시 후 다시 시도해 주세요.</string>
+  <string name="no_category_found">현재 사용 가능한 카테고리가 없는 것 같습니다.</string>
+  <string name="no_search_wallpaper_found">배경화면을 찾을 수 없습니다! 계속 검색하고 싶으시면 다른 키워드를 입력해 보세요!</string>
+  <string name="no_search_category_found">카테고리를 찾을 수 없습니다! 계속 검색하고 싶으시면 다른 키워드를 입력해 보세요!</string>
+  <string name="msg_no_item">이 섹션에는 사용 가능한 배경화면이 없는 것 같습니다.</string>
+  <string name="msg_no_favorite">즐겨찾기 메뉴에 배경화면을 추가하지 않아 즐겨찾기 목록이 비어 있습니다.</string>
+  <string name="btn_retry">다시 해 보다</string>
+  <!--wallpaper and category aspect ratio-->
+  <string name="wallpaper_image_ratio_rectangle">H,1:1.5</string>
+  <string name="wallpaper_image_ratio_square">H,1:1</string>
+  <string name="category_image_ratio">H,2:1</string>
+  <!--search-->
+  <string name="search_hint">찾다…</string>
+  <string name="radio_button_wallpaper">벽지</string>
+  <string name="radio_button_category">범주</string>
+  <string name="msg_search_input">키워드를 입력해주세요</string>
+  <!--redirect if app suspended-->
+  <string name="redirect_title">새로운 앱 업데이트</string>
+  <string name="redirect_message">이 애플리케이션은 만료되어 더 이상 사용되지 않습니다. 아래 버튼을 눌러 이 애플리케이션의 최신 업데이트를 다운로드하고 설치하세요.</string>
+  <string name="redirect_button">지금 업데이트 다운로드</string>
+  <string name="redirect_error">앗! URL에 문제가 있습니다. 나중에 다시 시도해 주세요.</string>
+  <!--title tab menu which is only used when online tab menu is disabled from Config.java-->
+  <string name="tab_menu_recent">최근의</string>
+  <string name="tab_menu_featured">추천</string>
+  <string name="tab_menu_popular">인기 있는</string>
+  <string name="tab_menu_random">무작위의</string>
+  <string name="tab_menu_live">라이브 배경 화면</string>
+  <!--settings and others-->
+  <string name="menu_settings">설정</string>
+  <string name="msg_clear_cache">캐시를 지우시겠습니까?</string>
+  <string name="title_setting_theme">어두운 테마</string>
+  <string name="sub_title_setting_theme">시력 및 건강에 더 좋습니다. 배터리 수명</string>
+  <string name="title_setting_display_wallpaper">배경화면 표시</string>
+  <string name="option_menu_wallpaper_grid_2">2열</string>
+  <string name="option_menu_wallpaper_grid_3">3개의 칼럼</string>
+  <string name="title_setting_display_category">디스플레이 카테고리</string>
+  <string name="option_menu_category_list">목록</string>
+  <string name="option_menu_category_grid_2">2열</string>
+  <string name="title_setting_notification">공고</string>
+  <string name="sub_title_setting_notification">배경화면 업데이트를 받으려면 구독하세요</string>
+  <string name="title_setting_clear_cache">캐시 지우기</string>
+  <string name="sub_setting_clear_cache_start">확보</string>
+  <string name="sub_setting_clear_cache_end">공간의</string>
+  <string name="title_setting_clear_search">검색 기록 지우기</string>
+  <string name="sub_title_setting_clear_search">수행한 검색 제거</string>
+  <string name="title_dialog_clear_search_history">검색 기록 지우기</string>
+  <string name="msg_dialog_clear_search_history">검색 기록을 삭제하시겠습니까?</string>
+  <string name="clearing_empty">검색 기록이 비어 있습니다.</string>
+  <string name="clearing_success">검색 기록이 삭제되었습니다…</string>
+  <string name="title_setting_privacy">개인 정보 정책</string>
+  <string name="sub_title_setting_privacy">앱 약관 및 정책</string>
+  <string name="title_setting_rate">우리를 평가해 주세요</string>
+  <string name="sub_title_setting_rate">앱에 대한 평가 및 리뷰를 제공하세요.</string>
+  <string name="title_setting_more_apps">더 많은 애플 리케이션</string>
+  <string name="sub_title_setting_more_apps">당신을 위한 다른 앱을 찾아보세요</string>
+  <string name="title_setting_copyright">저작권 정보</string>
+  <string name="sub_title_setting_copyright">앱에서 사용할 수 있는 모든 배경화면은 무료이며 해당 배경화면의 크레딧은 해당 소유자에게 돌아갑니다. 이 배경화면은 Creative Commons Zero (CC0) 라이선스에 따라 라이선스가 부여됩니다. 규칙을 위반하는 벽지를 발견한 경우 당사에 연락해 주시면 해당 벽지를 제거해 드리겠습니다.</string>
+  <string name="title_setting_about">에 대한</string>
+  <string name="sub_title_setting_about">앱 정보 및 빌드 버전</string>
+  <string name="msg_about_version">버전</string>
+  <string name="msg_cache_cleared">캐시가 삭제되었습니다</string>
+  <string name="title_setting_path">배경화면이 다음에 저장되었습니다.</string>
+  <string name="wallpaper_count_text">배경화면</string>
+  <string name="img_content_description">할 것</string>
+  <string name="msg_cancel_update">업데이트가 취소되었습니다.</string>
+  <string name="msg_success_update">업데이트 성공!</string>
+  <string name="msg_failed_update">업데이트가 실패!</string>
+  <string name="title_sort">배경화면 정렬</string>
+  <!--exit message-->
+  <string name="press_again_to_exit">종료하려면 다시 누르세요.</string>
+  <string name="msg_dialog_exit">정말로 앱을 종료하시겠습니까?</string>
+  <!--vpn alert-->
+  <string name="vpn_detected">VPN이 감지되었습니다!</string>
+  <string name="close_vpn">계속하려면 VPN을 닫고 앱을 다시 여세요.</string>
+  <!--rewarded option-->
+  <string name="msg_watch_ad">배경화면을 잠금 해제하고 설정하려면 광고를 시청하세요.</string>
+  <string name="btn_watch_ad">광고 시청</string>
+  <string name="btn_later">나중에 할게요</string>
+  <string name="msg_rewarded_error">아직 광고를 사용할 수 없습니다. 나중에 다시 시도해 주세요.</string>
+  <!--  onboarding-->
+  <string name="todo" formatted="false">해야 할 일</string>
+  <string name="personalize_with_anime_wallpapers" formatted="false">애니메이션 배경화면으로 개인 설정</string>
+  <string name="next" formatted="false">다음</string>
+  <string name="get_started" formatted="false">시작하기</string>
+  <string name="explore_a_huge_collection_of_top_tier_anime_wallpapers_for_any_screen" formatted="false">모든 화면에 사용할 수 있는 최고의 애니메이션 배경화면을 탐색하세요.</string>
+  <string name="languages" formatted="false">언어</string>
+  <string name="system_language" formatted="false">시스템 언어</string>
+  <string name="live_wallpapers_anime_magic" formatted="false">라이브 배경화면, 애니메이션 매력</string>
+  <string name="dive_into_the_dynamic_anime_world_with_animated_wallpapers" formatted="false">애니메이션 배경화면으로 다이내믹한 애니메이션 세계에 빠져들다.</string>
+  <string name="your_favorites_your_way" formatted="false">나만의 취향으로</string>
+  <string name="craft_a_personalized_collection_of_anime_favorites_with_animexa" formatted="false">Animexa로 나만의 즐겨찾기 애니메이션 모음 만들기</string>
+
+</resources>

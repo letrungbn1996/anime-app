@@ -1,0 +1,152 @@
+<resources>
+
+    <!--app info-->
+    <string name="app_name">Animexa</string>
+    <string name="app_copyright">Bản quyền &#169; 2024 bởi Animexa \n Mọi quyền được bảo lưu</string>
+    <string name="share_text">🌟 Khám phá những hình nền anime tuyệt đẹp với ứng dụng của chúng tôi! Biến đổi thiết bị của bạn với những kiệt tác có độ phân giải cao. 🎨✨ Hãy tải xuống ngay và nâng cao tính thẩm mỹ cho màn hình của bạn!</string>
+
+    <!--navigation name-->
+    <string name="title_nav_wallpaper">Hình nền</string>
+    <string name="title_nav_category">Danh mục</string>
+    <string name="title_nav_favorite">Yêu thích</string>
+
+    <!--wallpaper set action-->
+    <string name="msg_set_action">Bạn thích làm gì?</string>
+    <string name="txt_set_as_home_screen">Đặt làm màn hình chính</string>
+    <string name="txt_set_as_lock_screen">Đặt làm màn hình khóa</string>
+    <string name="txt_set_both_screen">Đặt cả hai màn hình</string>
+    <string name="txt_set_wallpaper">Đặt làm hình nền</string>
+    <string name="txt_set_with">Thiết lập với</string>
+    <string name="txt_crop">Cắt ảnh</string>
+    <string name="txt_set_video_wallpaper">Đặt hình nền động</string>
+    <string name="txt_save_to_device">Lưu vào thiết bị</string>
+    <string name="msg_wallpaper_success">Hình nền đã cập nhật</string>
+    <string name="msg_wallpaper_saved">Hình nền đã lưu</string>
+    <string name="msg_wallpaper_failed">Hình nền chưa được áp dụng</string>
+    <string name="msg_wallpaper_error">Hình nền lỗi</string>
+
+    <!--set wallpaper option-->
+    <string name="txt_title_info">Thông tin</string>
+    <string name="txt_info_name">Tên</string>
+    <string name="txt_info_category">Danh mục</string>
+    <string name="txt_info_resolution">Độ phân giải</string>
+    <string name="txt_info_size">Kích cỡ</string>
+    <string name="txt_info_type">Loại</string>
+    <string name="txt_info_views">Lượt xem</string>
+    <string name="txt_info_downloads">Lượt tải</string>
+    <string name="txt_info_tags">Từ khóa</string>
+
+    <!--dialog option-->
+    <string name="dialog_option_ok">OK</string>
+    <string name="dialog_option_yes">Đồng ý</string>
+    <string name="dialog_option_cancel">Hủy</string>
+    <string name="dialog_option_exit">Thoát</string>
+
+    <!--snack bar message-->
+    <string name="snack_bar_favorite_removed">Đã xóa khỏi yêu thích</string>
+    <string name="snack_bar_favorite_added">Đã thêm vào yêu thích</string>
+
+    <!--network & error message-->
+    <string name="whops">Rất tiếc!</string>
+    <string name="failed_title_text">Rất tiếc!</string>
+    <string name="failed_text">Đã xảy ra sự cố với mạng của bạn hoặc máy chủ hiện không hoạt động, vui lòng thử lại sau.</string>
+    <string name="no_category_found">Có vẻ như không có danh mục nào vào lúc này</string>
+    <string name="no_search_wallpaper_found">Không tìm thấy hình nền nào! Nếu bạn muốn tiếp tục tìm kiếm, vui lòng thử nhập từ khóa khác!</string>
+    <string name="no_search_category_found">Không tìm thấy danh mục nào! Nếu bạn muốn tiếp tục tìm kiếm, vui lòng thử nhập từ khóa khác!</string>
+    <string name="msg_no_item">Có vẻ như không có hình nền nào trong phần này.</string>
+    <string name="msg_no_favorite">Danh sách yêu thích của bạn trống vì bạn chưa thêm hình nền nào vào mục yêu thích.</string>
+    <string name="btn_retry">Thử lại</string>
+
+    <!--wallpaper and category aspect ratio-->
+    <string name="wallpaper_image_ratio_rectangle">H,1:1.5</string>
+    <string name="wallpaper_image_ratio_square">H,1:1</string>
+    <string name="category_image_ratio">H,2:1</string>
+
+    <!--search-->
+    <string name="search_hint">Tìm kiếm&#8230;</string>
+    <string name="radio_button_wallpaper">Hình nền</string>
+    <string name="radio_button_category">Danh mục</string>
+    <string name="msg_search_input">Vui lòng nhập từ khóa</string>
+
+    <!--redirect if app suspended-->
+    <string name="redirect_title">Cập nhật ứng dụng mới</string>
+    <string name="redirect_message">Phiên bản ứng dụng này đã hết hạn và không còn sử dụng được, hãy nhấn nút bên dưới để tải xuống và cài đặt bản cập nhật mới nhất của ứng dụng này.</string>
+    <string name="redirect_button">Tải xuống bản cập nhật ngay bây giờ</string>
+    <string name="redirect_error">Rất tiếc! Có vấn đề với URL, hãy thử lại sau</string>
+
+    <!--title tab menu which is only used when online tab menu is disabled from Config.java-->
+    <string name="tab_menu_recent">Gần đây</string>
+    <string name="tab_menu_featured">Nổi bật</string>
+    <string name="tab_menu_popular">Phổ biến</string>
+    <string name="tab_menu_random">Ngẫu nhiên</string>
+    <string name="tab_menu_live">Hình nền động</string>
+
+    <!--settings and others-->
+    <string name="menu_settings">Cài đặt</string>
+    <string name="msg_clear_cache">Bạn có chắc chắn muốn xóa bộ nhớ đệm không?</string>
+    <string name="title_setting_theme">Chủ đề tối</string>
+    <string name="sub_title_setting_theme">Tốt hơn cho thị lực &amp; thời lượng pin</string>
+    <string name="title_setting_display_wallpaper">Hiển thị hình nền</string>
+    <string name="option_menu_wallpaper_grid_2">2 Cột</string>
+    <string name="option_menu_wallpaper_grid_3">3 Cột</string>
+    <string name="title_setting_display_category">Hiển thị danh mục</string>
+    <string name="option_menu_category_list">Danh sách</string>
+    <string name="option_menu_category_grid_2">2 Cột</string>
+    <string name="title_setting_notification">Thông báo</string>
+    <string name="sub_title_setting_notification">Đăng ký để nhận cập nhật hình nền</string>
+    <string name="title_setting_clear_cache">Xóa bộ nhớ đệm</string>
+    <string name="sub_setting_clear_cache_start">Giải phóng</string>
+    <string name="sub_setting_clear_cache_end">dung lượng</string>
+    <string name="title_setting_clear_search">Xóa lịch sử tìm kiếm</string>
+    <string name="sub_title_setting_clear_search">Xóa các tìm kiếm bạn đã thực hiện</string>
+    <string name="title_dialog_clear_search_history">Xóa lịch sử tìm kiếm</string>
+    <string name="msg_dialog_clear_search_history">Bạn có chắc chắn muốn xóa lịch sử tìm kiếm của mình không?</string>
+    <string name="clearing_empty">Lịch sử tìm kiếm của bạn trống</string>
+    <string name="clearing_success">Đã xóa lịch sử tìm kiếm thành công&#8230;</string>
+    <string name="title_setting_privacy">Chính sách quyền riêng tư</string>
+    <string name="sub_title_setting_privacy">Điều khoản &amp; Chính sách ứng dụng</string>
+    <string name="title_setting_rate">Đánh giá</string>
+    <string name="sub_title_setting_rate">Đưa ra xếp hạng và đánh giá của bạn cho ứng dụng</string>
+    <string name="title_setting_more_apps">Ứng dụng khác</string>
+    <string name="sub_title_setting_more_apps">Khám phá các ứng dụng khác của chúng tôi dành cho bạn</string>
+    <string name="title_setting_copyright">Thông tin bản quyền</string>
+    <string name="sub_title_setting_copyright">Tất cả hình nền có trong ứng dụng đều miễn phí và phần thưởng sẽ thuộc về chủ sở hữu tương ứng của chúng. Những hình nền này được cấp phép theo giấy phép Creative Commons Zero (CC0). Vui lòng liên hệ với chúng tôi nếu bạn phát hiện bất kỳ hình nền nào vi phạm bất kỳ quy tắc nào và chúng tôi sẽ xóa hình nền đó.</string>
+    <string name="title_setting_about">Giới thiệu</string>
+    <string name="sub_title_setting_about">Thông tin ứng dụng  &amp; phiên bản</string>
+    <string name="msg_about_version">Phiên bản</string>
+    <string name="msg_cache_cleared">bộ nhớ đệm đã xóa</string>
+    <string name="title_setting_path">Đã lưu hình nền vào</string>
+    <string name="wallpaper_count_text">Hình nền</string>
+    <string name="img_content_description">TODO</string>
+    <string name="msg_cancel_update">Đã hủy cập nhật</string>
+    <string name="msg_success_update">Cập nhật thành công!</string>
+    <string name="msg_failed_update">Cập nhật thất bại!</string>
+    <string name="title_sort">Sắp xếp hình nền</string>
+
+    <!--exit message-->
+    <string name="press_again_to_exit">Nhấn lần nữa để thoát</string>
+    <string name="msg_dialog_exit">Bạn có chắc chắn muốn thoát khỏi ứng dụng không?</string>
+
+    <!--vpn alert-->
+    <string name="vpn_detected">Đã phát hiện VPN!</string>
+    <string name="close_vpn">Đóng VPN và mở lại ứng dụng để tiếp tục.</string>
+
+    <!--rewarded option-->
+    <string name="msg_watch_ad">Xem quảng cáo để có thể mở khóa và đặt hình nền</string>
+    <string name="btn_watch_ad">Xem quảng cáo</string>
+    <string name="btn_later">Tôi sẽ làm việc đó sau</string>
+    <string name="msg_rewarded_error">Quảng cáo chưa có, vui lòng thử lại sau</string>
+    <!--  onboarding-->
+    <string name="todo" formatted="false">Công việc cần làm</string>
+    <string name="personalize_with_anime_wallpapers" formatted="false">Tùy chỉnh với hình nền Anime</string>
+    <string name="next" formatted="false">Tiếp theo</string>
+    <string name="get_started" formatted="false">Bắt đầu</string>
+    <string name="explore_a_huge_collection_of_top_tier_anime_wallpapers_for_any_screen" formatted="false">Khám phá bộ sưu tập lớn hình nền Anime hàng đầu cho mọi màn hình.</string>
+    <string name="languages" formatted="false">Ngôn ngữ</string>
+    <string name="system_language" formatted="false">Ngôn ngữ hệ thống</string>
+    <string name="live_wallpapers_anime_magic" formatted="false">Hình nền sống động, Phép thuật Anime</string>
+    <string name="dive_into_the_dynamic_anime_world_with_animated_wallpapers" formatted="false">Đắm chìm vào thế giới Anime sống động với hình nền hoạt hình.</string>
+    <string name="your_favorites_your_way" formatted="false">Ưa thích của bạn, Cách của bạn</string>
+    <string name="craft_a_personalized_collection_of_anime_favorites_with_animexa" formatted="false">Tạo bộ sưu tập Anime yêu thích cá nhân với Animexa.</string>
+
+</resources>

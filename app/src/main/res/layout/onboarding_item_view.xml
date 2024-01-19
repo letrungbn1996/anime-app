@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@+id/backgroundImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/onboarding_1"
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/todo" />
+
+    <ImageView
+        android:id="@+id/blur"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/blur_bg_onboardin"
+        android:contentDescription="@string/todo" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/color_white"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:layout_above="@id/desc"
+            android:layout_marginHorizontal="10dp"
+            android:text="@string/personalize_with_anime_wallpapers" />
+
+        <TextView
+            android:layout_alignParentBottom="true"
+            android:id="@+id/desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/explore_a_huge_collection_of_top_tier_anime_wallpapers_for_any_screen"
+            android:textColor="@color/color_white"
+            android:alpha="0.7"
+            android:textSize="16sp"
+            android:layout_marginHorizontal="10dp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

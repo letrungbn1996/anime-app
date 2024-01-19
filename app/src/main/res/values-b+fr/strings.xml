@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+  <!--app info-->
+  <string name="app_name">Animexa</string>
+  <string name="app_copyright">Copyright © 2024 par Animexa\n Tous droits réservés</string>
+  <string name="share_text">🌟 Explorez de superbes fonds d\'écran animés avec notre application! Transformez votre appareil avec des chefs-d\'œuvre hauterésolution. ✨ Téléchargez maintenant et améliorez l\'esthétique de votre écran!</string>
+  <!--navigation name-->
+  <string name="title_nav_wallpaper">Fond d\'écran</string>
+  <string name="title_nav_category">Catégorie</string>
+  <string name="title_nav_favorite">Préféré</string>
+  <!--wallpaper set action-->
+  <string name="msg_set_action">Qu\'est-ce que tu aimerais faire?</string>
+  <string name="txt_set_as_home_screen">Définir comme écrand\'accueil</string>
+  <string name="txt_set_as_lock_screen">Configurer comme l\'écran de verrouillage</string>
+  <string name="txt_set_both_screen">Réglez les deux écrans</string>
+  <string name="txt_set_wallpaper">Définir en tant que fondd\'écran</string>
+  <string name="txt_set_with">Fixé avec</string>
+  <string name="txt_crop">Recadrer</string>
+  <string name="txt_set_video_wallpaper">Définir le fondd\'écran vidéo</string>
+  <string name="txt_save_to_device">Enregistrer surl\'appareil</string>
+  <string name="msg_wallpaper_success">Fond d\'écran mis à jour</string>
+  <string name="msg_wallpaper_saved">Fond d\'écran enregistré</string>
+  <string name="msg_wallpaper_failed">Papier peint non appliqué</string>
+  <string name="msg_wallpaper_error">Erreur de papier peint</string>
+  <!--set wallpaper option-->
+  <string name="txt_title_info">Info</string>
+  <string name="txt_info_name">Nom</string>
+  <string name="txt_info_category">Catégorie</string>
+  <string name="txt_info_resolution">Résolution</string>
+  <string name="txt_info_size">Taille</string>
+  <string name="txt_info_type">Taper</string>
+  <string name="txt_info_views">Vues</string>
+  <string name="txt_info_downloads">Téléchargements</string>
+  <string name="txt_info_tags">Mots clés</string>
+  <!--dialog option-->
+  <string name="dialog_option_ok">D\'ACCORD</string>
+  <string name="dialog_option_yes">Oui</string>
+  <string name="dialog_option_cancel">Annuler</string>
+  <string name="dialog_option_exit">Sortie</string>
+  <!--snack bar message-->
+  <string name="snack_bar_favorite_removed">Supprimé des favoris</string>
+  <string name="snack_bar_favorite_added">Ajouté aux favoris</string>
+  <!--network & error message-->
+  <string name="whops">Oups !</string>
+  <string name="failed_title_text">Oups !</string>
+  <string name="failed_text">Il y a un problème avec votre réseau ou le serveur est actuellement en panne, veuillez réessayer plus tard.</string>
+  <string name="no_category_found">Il semble qu\'aucune catégorie ne soit disponible pour le moment</string>
+  <string name="no_search_wallpaper_found">Aucun fondd\'écran trouvé! si vous souhaitez continuer la recherche, essayez de saisir un autre mot-clé!</string>
+  <string name="no_search_category_found">Aucune catégorie trouvée! si vous souhaitez continuer la recherche, essayez de saisir un autre mot-clé!</string>
+  <string name="msg_no_item">Il semble qu\'aucun fondd\'écran ne soit disponible dans cette section.</string>
+  <string name="msg_no_favorite">Votre liste de favoris est vide car vous n\'ajoutez aucun fondd\'écran dans le menu des favoris.</string>
+  <string name="btn_retry">Recommencez</string>
+  <!--wallpaper and category aspect ratio-->
+  <string name="wallpaper_image_ratio_rectangle">H,1:1.5</string>
+  <string name="wallpaper_image_ratio_square">H,1:1</string>
+  <string name="category_image_ratio">H,2:1</string>
+  <!--search-->
+  <string name="search_hint">Rechercher…</string>
+  <string name="radio_button_wallpaper">Fond d\'écran</string>
+  <string name="radio_button_category">Catégorie</string>
+  <string name="msg_search_input">Veuillez insérer un mot clé</string>
+  <!--redirect if app suspended-->
+  <string name="redirect_title">Nouvelles mises à jour d\'applications</string>
+  <string name="redirect_message">Cette application a expiré et n\'est plus utilisée, appuyez sur le bouton ci-dessous pour télécharger et installer la dernière mise à jour de cette application.</string>
+  <string name="redirect_button">Télécharger la mise à jour maintenant</string>
+  <string name="redirect_error">Oups ! il y a un problème avec l\'URL, réessayez plus tard</string>
+  <!--title tab menu which is only used when online tab menu is disabled from Config.java-->
+  <string name="tab_menu_recent">Récent</string>
+  <string name="tab_menu_featured">En vedette</string>
+  <string name="tab_menu_popular">Populaire</string>
+  <string name="tab_menu_random">Aléatoire</string>
+  <string name="tab_menu_live">Fond d\'écran animé</string>
+  <!--settings and others-->
+  <string name="menu_settings">Paramètres</string>
+  <string name="msg_clear_cache">Etes-vous sûr de vouloir vider le cache?</string>
+  <string name="title_setting_theme">Thème sombre</string>
+  <string name="sub_title_setting_theme">Mieux pour la vue et la santé vie de la batterie</string>
+  <string name="title_setting_display_wallpaper">Afficher le papier peint</string>
+  <string name="option_menu_wallpaper_grid_2">2 colonnes</string>
+  <string name="option_menu_wallpaper_grid_3">3 colonnes</string>
+  <string name="title_setting_display_category">Catégorie d\'affichage</string>
+  <string name="option_menu_category_list">Liste</string>
+  <string name="option_menu_category_grid_2">2 colonnes</string>
+  <string name="title_setting_notification">Notification</string>
+  <string name="sub_title_setting_notification">Abonnez-vous pour recevoir la mise à jour des fonds d\'écran</string>
+  <string name="title_setting_clear_cache">Vider le cache</string>
+  <string name="sub_setting_clear_cache_start">Libérer</string>
+  <string name="sub_setting_clear_cache_end">de l\'espace</string>
+  <string name="title_setting_clear_search">Effacer l\'historique</string>
+  <string name="sub_title_setting_clear_search">Supprimer les recherches que vous avez effectuées</string>
+  <string name="title_dialog_clear_search_history">Effacer l\'historique</string>
+  <string name="msg_dialog_clear_search_history">Êtes-vous sûr de vouloir effacer votre historique de recherche?</string>
+  <string name="clearing_empty">Votre historique de recherche est vide</string>
+  <string name="clearing_success">L\'historique de recherche a été effacé avec succès…</string>
+  <string name="title_setting_privacy">politique de confidentialité</string>
+  <string name="sub_title_setting_privacy">Conditions et autorisationsdel\'application Stratégies</string>
+  <string name="title_setting_rate">Évaluez nous</string>
+  <string name="sub_title_setting_rate">Donnez votre note et votre avis sur l\'application</string>
+  <string name="title_setting_more_apps">Plus d\'applications</string>
+  <string name="sub_title_setting_more_apps">Découvrez nos autres applications pour vous</string>
+  <string name="title_setting_copyright">Informations sur le droit d\'auteur</string>
+  <string name="sub_title_setting_copyright">Tous les fonds d\'écran disponibles dans l\'application sont gratuits et le mérite revient à leurs propriétaires respectifs. Ces fonds d\'écran sont souslicenceCreativeCommons Zero (CC0). Veuillez nous contacter si vous trouvez un fondd\'écran qui enfreint les règles et nous le supprimerons.</string>
+  <string name="title_setting_about">À propos</string>
+  <string name="sub_title_setting_about">Informations sur l\'application et amp; version de construction</string>
+  <string name="msg_about_version">Version</string>
+  <string name="msg_cache_cleared">le cache a été vidé</string>
+  <string name="title_setting_path">Fond d\'écran enregistré dans</string>
+  <string name="wallpaper_count_text">Fonds d\'écran</string>
+  <string name="img_content_description">FAIRE</string>
+  <string name="msg_cancel_update">Mise à jour annulée</string>
+  <string name="msg_success_update">Mise à jour réussie!</string>
+  <string name="msg_failed_update">Mise à jour a échoué!</string>
+  <string name="title_sort">Trier les fonds d\'écran</string>
+  <!--exit message-->
+  <string name="press_again_to_exit">Appuyez à nouveau pour quitter</string>
+  <string name="msg_dialog_exit">Êtes-vous sûr de vouloir quitter l\'application?</string>
+  <!--vpn alert-->
+  <string name="vpn_detected">VPN détecté!</string>
+  <string name="close_vpn">Fermez le VPN et rouvrez l\'application pour continuer.</string>
+  <!--rewarded option-->
+  <string name="msg_watch_ad">Regardez l\'annonce pour pouvoir déverrouiller et définir le fondd\'écran</string>
+  <string name="btn_watch_ad">Regarder l\'annonce</string>
+  <string name="btn_later">je le ferai plus tard</string>
+  <string name="msg_rewarded_error">Annonce pas encore disponible, veuillez réessayer plus tard</string>
+
+<!--  onboarding-->
+  <string name="todo" formatted="false">À faire</string>
+  <string name="personalize_with_anime_wallpapers" formatted="false">Personnalisez avec des fonds d\'écran d\'anime</string>
+  <string name="next" formatted="false">Suivant</string>
+  <string name="get_started" formatted="false">Commencer</string>
+  <string name="explore_a_huge_collection_of_top_tier_anime_wallpapers_for_any_screen" formatted="false">Explorez une vaste collection de fonds d\'écran d\'anime de haute qualité pour tout écran.</string>
+  <string name="languages" formatted="false">Langues</string>
+  <string name="system_language" formatted="false">Langue du système</string>
+  <string name="live_wallpapers_anime_magic" formatted="false">Fonds d\'écran animés, Magie de l\'anime</string>
+  <string name="dive_into_the_dynamic_anime_world_with_animated_wallpapers" formatted="false">Plongez dans le monde dynamique de l\'anime avec des fonds d\'écran animés.</string>
+  <string name="your_favorites_your_way" formatted="false">Vos favoris, à votre manière</string>
+  <string name="craft_a_personalized_collection_of_anime_favorites_with_animexa" formatted="false">Créez une collection personnalisée de vos animes favoris avec Animexa.</string>
+
+</resources>

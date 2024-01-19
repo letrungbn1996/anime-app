@@ -1,0 +1,137 @@
+<resources>
+  <!--app info-->
+  <string name="app_name">Animexa</string>
+  <string name="app_copyright">Copyright © 2024 di Animexa\n Tutti i diritti riservati</string>
+  <string name="share_text">🌟 Esplora splendidi sfondi anime con la nostra app! Trasforma il tuo dispositivo con capolavori ad alta risoluzione. ✨ Scaricalo ora e migliora l\'estetica del tuo schermo!</string>
+  <!--navigation name-->
+  <string name="title_nav_wallpaper">Sfondo</string>
+  <string name="title_nav_category">Categoria</string>
+  <string name="title_nav_favorite">Preferito</string>
+  <!--wallpaper set action-->
+  <string name="msg_set_action">Cosa ti piacerebbe fare?</string>
+  <string name="txt_set_as_home_screen">Imposta come schermata iniziale</string>
+  <string name="txt_set_as_lock_screen">Imposta come schermata di blocco</string>
+  <string name="txt_set_both_screen">Imposta entrambi gli schermi</string>
+  <string name="txt_set_wallpaper">Imposta come sfondo</string>
+  <string name="txt_set_with">Impostato con</string>
+  <string name="txt_crop">Raccolto</string>
+  <string name="txt_set_video_wallpaper">Imposta lo sfondo del video</string>
+  <string name="txt_save_to_device">Salva sul dispositivo</string>
+  <string name="msg_wallpaper_success">Sfondo aggiornato</string>
+  <string name="msg_wallpaper_saved">Sfondo salvato</string>
+  <string name="msg_wallpaper_failed">Carta da parati non applicata</string>
+  <string name="msg_wallpaper_error">Errore dello sfondo</string>
+  <!--set wallpaper option-->
+  <string name="txt_title_info">Informazioni</string>
+  <string name="txt_info_name">Nome</string>
+  <string name="txt_info_category">Categoria</string>
+  <string name="txt_info_resolution">Risoluzione</string>
+  <string name="txt_info_size">Misurare</string>
+  <string name="txt_info_type">Tipo</string>
+  <string name="txt_info_views">Visualizzazioni</string>
+  <string name="txt_info_downloads">Download</string>
+  <string name="txt_info_tags">Tag</string>
+  <!--dialog option-->
+  <string name="dialog_option_ok">OK</string>
+  <string name="dialog_option_yes">SÌ</string>
+  <string name="dialog_option_cancel">Annulla</string>
+  <string name="dialog_option_exit">Uscita</string>
+  <!--snack bar message-->
+  <string name="snack_bar_favorite_removed">Rimosso dai preferiti</string>
+  <string name="snack_bar_favorite_added">Aggiunto ai preferiti</string>
+  <!--network & error message-->
+  <string name="whops">Ops!</string>
+  <string name="failed_title_text">Ops!</string>
+  <string name="failed_text">C\'è qualcosa di problema con la tua rete o il server è attualmente inattivo, riprova più tardi.</string>
+  <string name="no_category_found">Sembra che non ci siano categorie disponibili in questo momento</string>
+  <string name="no_search_wallpaper_found">Nessuno sfondo trovato! se vuoi continuare la ricerca, prova a inserire un\'altra parola chiave!</string>
+  <string name="no_search_category_found">Nessuna categoria trovata! se vuoi continuare la ricerca, prova a inserire un\'altra parola chiave!</string>
+  <string name="msg_no_item">Sembra che non ci siano sfondi disponibili in questa sezione.</string>
+  <string name="msg_no_favorite">La tua lista dei preferiti è vuota perché non aggiungi nessuno sfondo nel menu dei preferiti.</string>
+  <string name="btn_retry">Riprova</string>
+  <!--wallpaper and category aspect ratio-->
+  <string name="wallpaper_image_ratio_rectangle">H,1:1.5</string>
+  <string name="wallpaper_image_ratio_square">H,1:1</string>
+  <string name="category_image_ratio">H,2:1</string>
+  <!--search-->
+  <string name="search_hint">Ricerca…</string>
+  <string name="radio_button_wallpaper">Sfondo</string>
+  <string name="radio_button_category">Categoria</string>
+  <string name="msg_search_input">Inserisci la parola chiave</string>
+  <!--redirect if app suspended-->
+  <string name="redirect_title">Nuovi aggiornamenti dell\'app</string>
+  <string name="redirect_message">Questa applicazione è scaduta e non è più utilizzata, premi il pulsante in basso per scaricare e installare l\'ultimo aggiornamento di questa applicazione.</string>
+  <string name="redirect_button">Scarica l\'aggiornamento ora</string>
+  <string name="redirect_error">Ops! c\'è un problema con l\'URL, riprova più tardi</string>
+  <!--title tab menu which is only used when online tab menu is disabled from Config.java-->
+  <string name="tab_menu_recent">Recente</string>
+  <string name="tab_menu_featured">In primo piano</string>
+  <string name="tab_menu_popular">Popolare</string>
+  <string name="tab_menu_random">Casuale</string>
+  <string name="tab_menu_live">Sfondo animato</string>
+  <!--settings and others-->
+  <string name="menu_settings">Impostazioni</string>
+  <string name="msg_clear_cache">Vuoi svuotare la cache?</string>
+  <string name="title_setting_theme">Tema scuro</string>
+  <string name="sub_title_setting_theme">Meglio per la vista e la vista. durata della batteria</string>
+  <string name="title_setting_display_wallpaper">Visualizza sfondo</string>
+  <string name="option_menu_wallpaper_grid_2">2 colonne</string>
+  <string name="option_menu_wallpaper_grid_3">3 colonne</string>
+  <string name="title_setting_display_category">Visualizza categoria</string>
+  <string name="option_menu_category_list">Elenco</string>
+  <string name="option_menu_category_grid_2">2 colonne</string>
+  <string name="title_setting_notification">Notifica</string>
+  <string name="sub_title_setting_notification">Iscriviti per ricevere l\'aggiornamento degli sfondi</string>
+  <string name="title_setting_clear_cache">Cancella cache</string>
+  <string name="sub_setting_clear_cache_start">Liberare</string>
+  <string name="sub_setting_clear_cache_end">di spazio</string>
+  <string name="title_setting_clear_search">Cancella cronologia ricerche</string>
+  <string name="sub_title_setting_clear_search">Rimuovi le ricerche che hai eseguito</string>
+  <string name="title_dialog_clear_search_history">Cancella cronologia ricerche</string>
+  <string name="msg_dialog_clear_search_history">Sei sicuro di voler cancellare la cronologia delle ricerche?</string>
+  <string name="clearing_empty">La tua cronologia delle ricerche è vuota</string>
+  <string name="clearing_success">Cronologia delle ricerche cancellata correttamente…</string>
+  <string name="title_setting_privacy">politica sulla riservatezza</string>
+  <string name="sub_title_setting_privacy">Termini e condizioni dell\'app Politiche</string>
+  <string name="title_setting_rate">Valutaci</string>
+  <string name="sub_title_setting_rate">Dai la tua valutazione e recensione per l\'app</string>
+  <string name="title_setting_more_apps">Più applicazioni</string>
+  <string name="sub_title_setting_more_apps">Scopri le nostre altre app per te</string>
+  <string name="title_setting_copyright">Informazioni sul diritto d\'autore</string>
+  <string name="sub_title_setting_copyright">Tutti gli sfondi disponibili nell\'app sono gratuiti e il merito va ai rispettivi proprietari. Questi sfondi sono concessi in licenza con la licenza Creative Commons Zero (CC0). Vi preghiamo di contattarci se trovate uno sfondo che viola qualsiasi regola e rimuoveremo lo sfondo.</string>
+  <string name="title_setting_about">Di</string>
+  <string name="sub_title_setting_about">Informazioni sull\'app e funzionalità costruire la versione</string>
+  <string name="msg_about_version">Versione</string>
+  <string name="msg_cache_cleared">la cache è stata svuotata</string>
+  <string name="title_setting_path">Sfondo salvato in</string>
+  <string name="wallpaper_count_text">Sfondi</string>
+  <string name="img_content_description">FARE</string>
+  <string name="msg_cancel_update">Aggiornamento annullato</string>
+  <string name="msg_success_update">Aggiornamento riuscito!</string>
+  <string name="msg_failed_update">Aggiornamento non riuscito!</string>
+  <string name="title_sort">Ordina gli sfondi</string>
+  <!--exit message-->
+  <string name="press_again_to_exit">Premere di nuovo per uscire</string>
+  <string name="msg_dialog_exit">Sei sicuro di voler uscire dall\'app?</string>
+  <!--vpn alert-->
+  <string name="vpn_detected">VPN rilevata!</string>
+  <string name="close_vpn">Chiudi la VPN e riapri l\'app per continuare.</string>
+  <!--rewarded option-->
+  <string name="msg_watch_ad">Guarda l\'annuncio per poter sbloccare e impostare lo sfondo</string>
+  <string name="btn_watch_ad">Guarda l\'annuncio</string>
+  <string name="btn_later">Lo farò più tardi</string>
+  <string name="msg_rewarded_error">Annuncio non ancora disponibile, riprova più tardi</string>
+
+  <string name="todo" formatted="false">Da fare</string>
+  <string name="personalize_with_anime_wallpapers" formatted="false">Personalizza con sfondi anime</string>
+  <string name="next" formatted="false">Avanti</string>
+  <string name="get_started" formatted="false">Inizia</string>
+  <string name="explore_a_huge_collection_of_top_tier_anime_wallpapers_for_any_screen" formatted="false">Esplora una vasta collezione di sfondi anime di alta qualità per qualsiasi schermo.</string>
+  <string name="languages" formatted="false">Lingue</string>
+  <string name="system_language" formatted="false">Lingua di sistema</string>
+  <string name="live_wallpapers_anime_magic" formatted="false">Sfondi animati, Magia anime</string>
+  <string name="dive_into_the_dynamic_anime_world_with_animated_wallpapers" formatted="false">Immergiti nel mondo dinamico degli anime con sfondi animati.</string>
+  <string name="your_favorites_your_way" formatted="false">I tuoi preferiti, a modo tuo</string>
+  <string name="craft_a_personalized_collection_of_anime_favorites_with_animexa" formatted="false">Crea una collezione personalizzata dei tuoi anime preferiti con Animexa.</string>
+
+</resources>

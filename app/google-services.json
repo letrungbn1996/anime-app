@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175657341959",
+    "project_id": "appkitten-animexa",
+    "storage_bucket": "appkitten-animexa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175657341959:android:37537eeec49464254ac6a2",
+        "android_client_info": {
+          "package_name": "com.appkitten.animexa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvuOakzGUoPxAuob1UKhKZ-CAZC_X7IQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,137 @@
+<resources>
+  <!--app info-->
+  <string name="app_name">Animexa</string>
+  <string name="app_copyright">Hak Cipta © 2024 oleh Animexa\n Seluruh hak cipta</string>
+  <string name="share_text">🌟 Jelajahi wallpaper anime yang menakjubkan dengan aplikasi kami! Ubah perangkat Anda dengan mahakarya resolusi tinggi. &#127912;✨ Unduh sekarang dan tingkatkan estetika layar Anda!</string>
+  <!--navigation name-->
+  <string name="title_nav_wallpaper">kertas dinding</string>
+  <string name="title_nav_category">Kategori</string>
+  <string name="title_nav_favorite">Favorit</string>
+  <!--wallpaper set action-->
+  <string name="msg_set_action">Apa yang ingin kamu lakukan?</string>
+  <string name="txt_set_as_home_screen">Tetapkan sebagai layar beranda</string>
+  <string name="txt_set_as_lock_screen">Tetapkan sebagai layar kunci</string>
+  <string name="txt_set_both_screen">Atur kedua layar</string>
+  <string name="txt_set_wallpaper">Tetapkan sebagai kertas dinding</string>
+  <string name="txt_set_with">Atur dengan</string>
+  <string name="txt_crop">Tanaman</string>
+  <string name="txt_set_video_wallpaper">Setel wallpaper video</string>
+  <string name="txt_save_to_device">Simpan ke perangkat</string>
+  <string name="msg_wallpaper_success">Wallpaper diperbarui</string>
+  <string name="msg_wallpaper_saved">Wallpaper disimpan</string>
+  <string name="msg_wallpaper_failed">Wallpaper tidak diterapkan</string>
+  <string name="msg_wallpaper_error">Kesalahan wallpaper</string>
+  <!--set wallpaper option-->
+  <string name="txt_title_info">Informasi</string>
+  <string name="txt_info_name">Nama</string>
+  <string name="txt_info_category">Kategori</string>
+  <string name="txt_info_resolution">Resolusi</string>
+  <string name="txt_info_size">Ukuran</string>
+  <string name="txt_info_type">Jenis</string>
+  <string name="txt_info_views">Tampilan</string>
+  <string name="txt_info_downloads">Unduhan</string>
+  <string name="txt_info_tags">Tag</string>
+  <!--dialog option-->
+  <string name="dialog_option_ok">OKE</string>
+  <string name="dialog_option_yes">Ya</string>
+  <string name="dialog_option_cancel">Membatalkan</string>
+  <string name="dialog_option_exit">KELUAR</string>
+  <!--snack bar message-->
+  <string name="snack_bar_favorite_removed">Dihapus dari favorit</string>
+  <string name="snack_bar_favorite_added">Ditambahkan ke favorit</string>
+  <!--network & error message-->
+  <string name="whops">Ups!</string>
+  <string name="failed_title_text">Ups!</string>
+  <string name="failed_text">Ada masalah dengan jaringan Anda atau server sedang down, silakan coba lagi nanti.</string>
+  <string name="no_category_found">Sepertinya tidak ada kategori yang tersedia saat ini</string>
+  <string name="no_search_wallpaper_found">Tidak ada wallpaper yang ditemukan! jika Anda ingin melanjutkan pencarian, silakan coba masukkan kata kunci lain!</string>
+  <string name="no_search_category_found">Tidak ada kategori yang ditemukan! jika Anda ingin melanjutkan pencarian, silakan coba masukkan kata kunci lain!</string>
+  <string name="msg_no_item">Sepertinya tidak ada wallpaper yang tersedia di bagian ini.</string>
+  <string name="msg_no_favorite">Daftar favorit Anda kosong karena Anda tidak menambahkan wallpaper apa pun di menu favorit.</string>
+  <string name="btn_retry">Mencoba kembali</string>
+  <!--wallpaper and category aspect ratio-->
+  <string name="wallpaper_image_ratio_rectangle">H,1:1.5</string>
+  <string name="wallpaper_image_ratio_square">H,1:1</string>
+  <string name="category_image_ratio">H,2:1</string>
+  <!--search-->
+  <string name="search_hint">Mencari…</string>
+  <string name="radio_button_wallpaper">kertas dinding</string>
+  <string name="radio_button_category">Kategori</string>
+  <string name="msg_search_input">Silakan Masukkan Kata Kunci</string>
+  <!--redirect if app suspended-->
+  <string name="redirect_title">Pembaruan Aplikasi Baru</string>
+  <string name="redirect_message">Aplikasi ini telah habis masa berlakunya dan tidak digunakan lagi, tekan tombol di bawah untuk mendownload dan menginstal update terbaru aplikasi ini.</string>
+  <string name="redirect_button">Unduh Pembaruan Sekarang</string>
+  <string name="redirect_error">Ups! ada masalah dengan urlnya, coba lagi nanti</string>
+  <!--title tab menu which is only used when online tab menu is disabled from Config.java-->
+  <string name="tab_menu_recent">Terkini</string>
+  <string name="tab_menu_featured">Unggulan</string>
+  <string name="tab_menu_popular">Populer</string>
+  <string name="tab_menu_random">Acak</string>
+  <string name="tab_menu_live">Wallpaper Hidup</string>
+  <!--settings and others-->
+  <string name="menu_settings">Pengaturan</string>
+  <string name="msg_clear_cache">Apakah Anda yakin ingin menghapus cache?</string>
+  <string name="title_setting_theme">Tema gelap</string>
+  <string name="sub_title_setting_theme">Lebih baik untuk penglihatan &amp; daya tahan baterai</string>
+  <string name="title_setting_display_wallpaper">Tampilan Kertas Dinding</string>
+  <string name="option_menu_wallpaper_grid_2">2 Kolom</string>
+  <string name="option_menu_wallpaper_grid_3">3 Kolom</string>
+  <string name="title_setting_display_category">Kategori Tampilan</string>
+  <string name="option_menu_category_list">Daftar</string>
+  <string name="option_menu_category_grid_2">2 Kolom</string>
+  <string name="title_setting_notification">Pemberitahuan</string>
+  <string name="sub_title_setting_notification">Berlangganan untuk menerima pembaruan wallpaper</string>
+  <string name="title_setting_clear_cache">Hapus Tembolok</string>
+  <string name="sub_setting_clear_cache_start">Membebaskan</string>
+  <string name="sub_setting_clear_cache_end">ruang</string>
+  <string name="title_setting_clear_search">Hapus Riwayat Pencarian</string>
+  <string name="sub_title_setting_clear_search">Hapus pencarian yang telah Anda lakukan</string>
+  <string name="title_dialog_clear_search_history">Hapus Riwayat Pencarian</string>
+  <string name="msg_dialog_clear_search_history">Apakah Anda yakin ingin menghapus riwayat pencarian Anda?</string>
+  <string name="clearing_empty">Riwayat pencarian Anda kosong</string>
+  <string name="clearing_success">Riwayat penelusuran berhasil dihapus…</string>
+  <string name="title_setting_privacy">Kebijakan pribadi</string>
+  <string name="sub_title_setting_privacy">Ketentuan Aplikasi &amp; Kebijakan</string>
+  <string name="title_setting_rate">Nilai Kami</string>
+  <string name="sub_title_setting_rate">Berikan peringkat dan ulasan Anda untuk aplikasi tersebut</string>
+  <string name="title_setting_more_apps">Aplikasi tambahan lainnya</string>
+  <string name="sub_title_setting_more_apps">Temukan aplikasi kami yang lain untuk Anda</string>
+  <string name="title_setting_copyright">Informasi Hak Cipta</string>
+  <string name="sub_title_setting_copyright">Semua wallpaper yang tersedia di Aplikasi ini gratis dan kredit diberikan kepada pemiliknya masing-masing. Wallpaper ini dilisensikan di bawah lisensi Creative Commons Zero (CC0). Silakan hubungi kami jika Anda menemukan wallpaper yang melanggar aturan apa pun dan kami akan menghapus wallpaper tersebut.</string>
+  <string name="title_setting_about">Tentang</string>
+  <string name="sub_title_setting_about">Info aplikasi  &amp; versi pembuatan</string>
+  <string name="msg_about_version">Versi: kapan</string>
+  <string name="msg_cache_cleared">cache telah dibersihkan</string>
+  <string name="title_setting_path">Wallpaper Disimpan Ke</string>
+  <string name="wallpaper_count_text">Wallpaper</string>
+  <string name="img_content_description">MELAKUKAN</string>
+  <string name="msg_cancel_update">Pembaruan dibatalkan</string>
+  <string name="msg_success_update">Pembaruan berhasil!</string>
+  <string name="msg_failed_update">Pembaharuan gagal!</string>
+  <string name="title_sort">Urutkan Wallpaper</string>
+  <!--exit message-->
+  <string name="press_again_to_exit">Tekan lagi untuk keluar</string>
+  <string name="msg_dialog_exit">Apakah Anda yakin ingin keluar dari aplikasi?</string>
+  <!--vpn alert-->
+  <string name="vpn_detected">VPN Terdeteksi!</string>
+  <string name="close_vpn">Tutup VPN dan buka kembali aplikasi untuk melanjutkan.</string>
+  <!--rewarded option-->
+  <string name="msg_watch_ad">Tonton iklan untuk dapat membuka kunci dan mengatur wallpaper</string>
+  <string name="btn_watch_ad">Tonton Iklan</string>
+  <string name="btn_later">Aku akan melakukannya nanti</string>
+  <string name="msg_rewarded_error">Iklan belum tersedia, coba lagi nanti</string>
+<!--  onboarding-->
+  <string name="todo" formatted="false">Belum Selesai</string>
+  <string name="personalize_with_anime_wallpapers" formatted="false">Personalisasikan dengan Wallpaper Anime</string>
+  <string name="next" formatted="false">Selanjutnya</string>
+  <string name="get_started" formatted="false">Mulai</string>
+  <string name="explore_a_huge_collection_of_top_tier_anime_wallpapers_for_any_screen" formatted="false">Jelajahi koleksi besar wallpaper anime kelas atas untuk layar apa pun.</string>
+  <string name="languages" formatted="false">Bahasa</string>
+  <string name="system_language" formatted="false">Bahasa Sistem</string>
+  <string name="live_wallpapers_anime_magic" formatted="false">Wallpaper Langsung, Keajaiban Anime</string>
+  <string name="dive_into_the_dynamic_anime_world_with_animated_wallpapers" formatted="false">Mendalami dunia anime yang dinamis dengan wallpaper animasi.</string>
+  <string name="your_favorites_your_way" formatted="false">Pilihan Anda, Caranya</string>
+  <string name="craft_a_personalized_collection_of_anime_favorites_with_animexa" formatted="false">Buat koleksi anime favorit Anda dengan Animexa.</string>
+
+</resources>
